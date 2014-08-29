@@ -295,5 +295,96 @@ Suppose that a budget equation is given by
  What is the formula for the new budget line?
 \end_layout
 
+\begin_layout Part
+Preferences
+\end_layout
+
+\begin_layout Enumerate
+Suppose initially the United States faces a budget line of 
+\begin_inset Formula $p_{x}x+p_{y}y=m$
+\end_inset
+
+, where 
+\begin_inset Formula $p_{x}$
+\end_inset
+
+ is the unit labor cost, 
+\begin_inset Formula $p_{y}$
+\end_inset
+
+ is the unit capital cost, and 
+\begin_inset Formula $m$
+\end_inset
+
+ is nation's total wealth.
+ Because international competition from abroad, the unit labor cost reduces
+ to half its original price and 
+\begin_inset Formula $p_{y}$
+\end_inset
+
+ reduces even more to only a third of the original price.
+ Suppose 
+\begin_inset Formula $m$
+\end_inset
+
+ does not change.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Draw both the initial and new budget line.
+ 
+\end_layout
+
+\begin_layout Enumerate
+What is the new relative price of labor and capital?
+\end_layout
+
+\begin_layout Enumerate
+Is the United States better or worse off? Indicate in your figure the gain
+ or loss of available consumption bundles due to international competition.
+\end_layout
+
+\begin_layout Enumerate
+Now suppose 
+\begin_inset Formula $m$
+\end_inset
+
+ changes as well.
+ How much would 
+\begin_inset Formula $m$
+\end_inset
+
+ have to change such that the maximum consumption of labor input is back
+ to the initial value? Is the United States better or worse off now compared
+ with the initial case?
+\end_layout
+
+\begin_layout Enumerate
+Find data on average hourly REAL wage (think of it as 
+\begin_inset Formula $p_{x}$
+\end_inset
+
+) for manufacturing production worker in the United States in 2000 and 2010
+ (so 2 data points) from google or whatever site you believe in.
+ Suppose 
+\begin_inset Formula $p_{y}$
+\end_inset
+
+ and 
+\begin_inset Formula $m$
+\end_inset
+
+ have not changed.
+ Is the budget set larger or smaller in 2000 compared with a decade later?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Just for fun: Test to see if your preferences satisfy the transitivity assumptio
+n by playing a little game designed by some economist at MIT: http://gametheory.t
+au.ac.il/exp11/
+\end_layout
+
 \end_body
 \end_document
