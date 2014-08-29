@@ -9,7 +9,7 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman default
+\font_roman ae
 \font_sans default
 \font_typewriter default
 \font_math auto
@@ -107,6 +107,10 @@ Instructor: Mary Li maryli@uchicago.edu
 \end_layout
 
 \begin_layout Standard
+Office Hour Location:
+\end_layout
+
+\begin_layout Standard
 
 \size large
 Office Hours: 
@@ -125,6 +129,10 @@ Office Hours:
 
 \size large
 TA: Nathan Petek npetek0@chicagobooth.edu
+\end_layout
+
+\begin_layout Standard
+Office Hour Location
 \end_layout
 
 \begin_layout Standard
@@ -175,14 +183,14 @@ The required text is Intermediate Microeconomics:
 \emph on
 A Modern Approach, 8th edition
 \emph default
-, by Hal Varian.
+, by Hal Varian (V).
  Readings should be completed before class.
  Supplemental material may be taken from 
 \emph on
 Price Theory
 \emph default
- by Victor Lima, which is available from the Copy Room in the Social Sciences
- Research Building.
+ by Victor Lima (L), which is available from the Copy Room in the Social
+ Sciences Research Building.
  
 \end_layout
 
@@ -204,8 +212,12 @@ weekly
 \emph on
 at the beginning of
 \emph default
- each week and due the following TA Session (for example, the first problem
- set will be posted on Monday of the first week and due at the TA session
+ each week and due 
+\emph on
+at the beginning of
+\emph default
+ the following TA Session (for example, the first problem set will be posted
+ on Monday of the first week and due at the beginning of the TA session
  of the second week).
  Late assignments will NOT be accepted.
  Practice midterm will be posted in week 3 and practice final will be posted
@@ -216,8 +228,9 @@ at the beginning of
  No makeup exams will be given under any circumstances, with the exception
  of illness and documentation from the Dean of Students.
  Completing the problem sets is the best way to learn the course material.
- You can work in groups to solve the problems, but everyone must turn in
- an individual write-up.
+ You can work in groups to solve the problems, but everyone must write up
+ the solutions individually (i.e., you may not directly copy your group members'
+ solutions).
  All problem sets must be legible and stapled.
 \end_layout
 
@@ -305,7 +318,7 @@ Week
 \begin_inset Text
 
 \begin_layout Plain Layout
-Lecture 
+Lecture 1
 \end_layout
 
 \end_inset
@@ -323,7 +336,7 @@ Lecture
 \begin_inset Text
 
 \begin_layout Plain Layout
-Lecture
+Lecture 2
 \end_layout
 
 \end_inset
@@ -453,7 +466,9 @@ Math Review
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+(V.
+ Ch2, L.
+ Ch3)
 \end_layout
 
 \end_inset
@@ -471,7 +486,9 @@ Math Review
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+(V.
+ Ch3, L.
+ Ch.4)
 \end_layout
 
 \end_inset
