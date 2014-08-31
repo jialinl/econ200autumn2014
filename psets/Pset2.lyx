@@ -1,0 +1,448 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman ae
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+
+\series bold
+\size larger
+Assignment 2
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+\size large
+Econ 200
+\end_layout
+
+\begin_layout Date
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+NOTES: 
+\end_layout
+
+\begin_layout Standard
+Each sub question is self-contained, which means, for example, assumptions
+ from part (b) does not carry to part (c).
+\end_layout
+
+\begin_layout Standard
+A few of these questions are directly taken (or modified slightly) from
+ Varian's and Lima's books, as well as Sarah Komisarow's and Grace Tsiang's
+ problem sets from previous school year.
+\end_layout
+
+\begin_layout Part
+Utility
+\end_layout
+
+\begin_layout Enumerate
+Consider the Cobb-Douglas utility function:
+\begin_inset Formula 
+\begin{eqnarray*}
+U(x,y) & = & x^{\alpha}y^{1-\alpha}
+\end{eqnarray*}
+
+\end_inset
+
+ for 
+\begin_inset Formula $\alpha\in(0,1)$
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Suppose 
+\begin_inset Formula $\alpha=\frac{1}{2}$
+\end_inset
+
+, plot the indifference curve when utility level is held constant at 
+\begin_inset Formula $U=1$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Repeat part a, but suppose that 
+\begin_inset Formula $\alpha=\frac{1}{4}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Repeat part a, but suppose that 
+\begin_inset Formula $\alpha=\frac{3}{4}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Looking at the graphs, give an economic explanation for the importance of
+ 
+\begin_inset Formula $\alpha$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Compute the Marginal Rate of Substitution, and find its derivative with
+ respect to 
+\begin_inset Formula $\alpha$
+\end_inset
+
+.
+ Can you relate this derivative to your plot.
+\end_layout
+
+\begin_layout Enumerate
+Which of the three indifference curves has the steepest slope? The flattest
+ slope?
+\end_layout
+
+\begin_layout Enumerate
+Suppose these preferences represent three different individuals, all with
+ the same income and facing the same prices.
+ Which of the three people would you expect to buy the most 
+\begin_inset Formula $x$
+\end_inset
+
+? The most 
+\begin_inset Formula $y$
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Enumerate
+Explain the intuition of your answer in terms of each consumer's willingness
+ to pay for good 
+\begin_inset Formula $y$
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Consider, now, the logarithmic transformation of Cobb-Douglas preferences:
+ 
+\begin_inset Formula 
+\begin{eqnarray*}
+U(x,y) & = & \alpha\log(x)+(1-\alpha)\log(y)
+\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Show that this preference relation is homothetic.
+\end_layout
+
+\begin_layout Enumerate
+Compute the marginal rates of substitution between x and y.
+ Compare it with the marginal rate of substitution in part (e) of question
+ 1.
+ What do you conclude? Is logarithmic transformation a monotonic transformation?
+ 
+\end_layout
+
+\begin_layout Enumerate
+Now, assume that 
+\begin_inset Formula $\alpha=\frac{1}{2}$
+\end_inset
+
+.
+ Construct three indifference curves, for 
+\begin_inset Formula $U=1$
+\end_inset
+
+, 
+\begin_inset Formula $U=2$
+\end_inset
+
+, and 
+\begin_inset Formula $U=3$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Now, let the relation between 
+\begin_inset Formula $x$
+\end_inset
+
+ and 
+\begin_inset Formula $y$
+\end_inset
+
+ be given by: 
+\begin_inset Formula $y=2x$
+\end_inset
+
+.
+ Draw this in your coordinate plane.
+ Find the point of intersection between the line and each indifference curve.
+ Computer the MRS at each of these three points.
+ Relate the answer to part a to the graph you have constructed.
+ Explain the behavior of a 
+\begin_inset Quotes eld
+\end_inset
+
+homothetic
+\begin_inset Quotes erd
+\end_inset
+
+ agent.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Prove that decreasing marginal rates of substitution are consistent with
+ both increasing and diminishing marginal utilities.
+ You can do this either by providing specific examples of utility functions,
+ or using mathematical arguments.
+ 
+\emph on
+Hint: it should be easy to come up with utility functions with diminishing
+ marginal utilities, try negating the function see if it is increasing in
+ marginal utilities.
+ Then compare the MRS.
+
+\emph default
+ The important message in this problem is this: decreasing marginal rates
+ of substitution and diminishing marginal utility are 
+\series bold
+\emph on
+distinct
+\series default
+\emph default
+ concepts; there is no link between the properties of marginal utility and
+ the properties of the MRS precisely because a utility function is just
+ a convenient form of representing a preference relation and the family
+ of indifference curves obtained from them.
+ The key conditions needed to determine an individual's behavior pertain
+ to his indifference curves.
+ A decreasing MRS, 
+\emph on
+not
+\emph default
+ diminishing marginal utility, is the condition that we need to be able
+ to study individual behavior.
+ It is the indifference curves that matter for individual behavior.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Use this utility function 
+\begin_inset Formula $U(x,y)=(x^{-\sigma}+y^{-\sigma)})^{-\frac{1}{\sigma}}$
+\end_inset
+
+.
+ Calculate and explain in words the interpretation of these three concepts,
+ and the relationship between them: the marginal rates of substitution,
+ the marginal utility, and the elasticity of substitution.
+ Be sure to talk about what properties of the indifference curve they each
+ capture (hint: level, shape, slope, etc).
+ What about them that have to be true for any utility function to represent
+ a well-behaved preference (i.e.
+ completeness, transitivity, reflexivity, monotonicity, and convexity assumption
+s all fulfilled)? Hint: revisit question 3.
+\end_layout
+
+\begin_layout Part
+Preferences
+\end_layout
+
+\begin_layout Enumerate
+Explain whether the following preference relations satisfy completeness,
+ transitivity, and reflexivity.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Consider a group of people A, B, C and the relation 
+\begin_inset Quotes eld
+\end_inset
+
+at least as tall as
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Consider the same group of people and the relation 
+\begin_inset Quotes eld
+\end_inset
+
+strictly taller than
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+A college basketball coach says that given any two players A and B, he always
+ prefers the one who is taller and faster.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Just for fun: Test to see if your preferences satisfy the transitivity assumptio
+n by playing a little game designed by some economist at MIT: http://gametheory.t
+au.ac.il/exp11/ To receive credit for this question, report your results.
+\end_layout
+
+\begin_layout Enumerate
+Draw indifference curves that represent the following preferences for pizza
+ (horizontal axis) and lemonade (vertical axis).
+ Indicate with an arrow the direction in which the individuals’ satisfaction
+ is increasing.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Jessica loves pizza but does not care about lemonade one way or the other.
+\end_layout
+
+\begin_layout Enumerate
+Brian loves pizza but dislikes lemonade.
+\end_layout
+
+\begin_layout Enumerate
+Claire has convex preferences and dislikes both pizza and lemonade.
+\end_layout
+
+\begin_layout Enumerate
+Erin loves pizza and lemonade and insists on consuming exactly 2 glasses
+ of lemonade with every slice of pizza.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+What is your marginal rate of substitution of $1 bills for $5 bills?
+\end_layout
+
+\begin_layout Enumerate
+Mary's indifference curve crosses three consumption bundles: point A (80
+ apple, 2 pizza), point B (40 apples, 3 pizza), and point C (20 apples,
+ 4 pizza).
+ Her indifference curve is convex and smooth.
+ Mary is willing to exchange 50 apples for a marginal amount of extra consumptio
+n of pizza at point A, 30 at point B, and 10 at point C.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+What is the marginal rate of substitution (MRS) at each of these points?
+ Be clear with the units.
+ 
+\end_layout
+
+\begin_layout Enumerate
+At point B, someone offered to trade 2 pizza with Mary for 80 apples, will
+ Mary accept the offer? What about the same offer at point A and C?
+\end_layout
+
+\begin_layout Enumerate
+What is the slope between point A and B if they were connected with a straight
+ line? Compare this slope with the MRS at point A.
+ Why does it have to be the case that the MRS at point A in absolute value
+ is greater than the slope between the two points?
+\end_layout
+
+\end_deeper
+\end_body
+\end_document
