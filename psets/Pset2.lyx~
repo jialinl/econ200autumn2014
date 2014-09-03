@@ -331,9 +331,10 @@ Use this utility function
  the marginal utility, and the elasticity of substitution.
  Be sure to talk about what properties of the indifference curve they each
  capture (hint: level, shape, slope, etc).
- Mathematical expressions will help, but we like you to understand these
- concepts conceptually.
- 
+ What about them that have to be true for any utility function to represent
+ a well-behaved preference (i.e.
+ completeness, transitivity, reflexivity, monotonicity, and convexity assumption
+s all fulfilled)? Hint: revisit question 3.
 \end_layout
 
 \begin_layout Part
