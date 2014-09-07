@@ -108,13 +108,15 @@ Instructor: Mary Li maryli@uchicago.edu
 \end_layout
 
 \begin_layout Standard
-Office Hour Location:
+
+\size large
+Lecture: MW 1:30PM- 2:50PM SHFE - 021
 \end_layout
 
 \begin_layout Standard
 
 \size large
-Office Hours: 
+Office Hours: MW 3:00PM-4:00PM Location TBA
 \end_layout
 
 \begin_layout Standard
@@ -133,13 +135,15 @@ TA: Nathan Petek npetek0@chicagobooth.edu
 \end_layout
 
 \begin_layout Standard
-Office Hour Location:
+
+\size large
+TA Session: R 5:00PM- 5:50PM SS - 302
 \end_layout
 
 \begin_layout Standard
 
 \size large
-Office Hours:
+Office Hours: 
 \end_layout
 
 \begin_layout Section
@@ -272,6 +276,29 @@ NOT
  Likewise, we will not provide complete solutions to those either.
 \end_layout
 
+\begin_layout Section
+Web Resources
+\end_layout
+
+\begin_layout Standard
+All registered students will automatically be added to Chalk.
+ All course related materials will be posted here.
+\end_layout
+
+\begin_layout Section
+In-Class Quiz
+\end_layout
+
+\begin_layout Standard
+There will be in-class quizzes sporadically.
+ However, we will not grade these quizzes and they will not factor into
+ your final grades.
+ These quizzes are friendly tools to give you tips on what the core messages
+ are in a lecture and help you diagnose what problems you might run into
+ during an exam.
+ 
+\end_layout
+
 \begin_layout Standard
 \begin_inset Newpage pagebreak
 \end_inset
@@ -285,7 +312,7 @@ Class Schedule
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="20" columns="8">
+<lyxtabular version="3" rows="21" columns="8">
 <features rotate="0" tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -769,7 +796,8 @@ Pset 2
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+(L.
+ Ch6 and Ch.7)
 \end_layout
 
 \end_inset
@@ -787,7 +815,9 @@ Pset 2
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+(V.
+ Ch6, L.
+ Ch8)
 \end_layout
 
 \end_inset
@@ -917,7 +947,9 @@ Pset 3
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+(V.
+ Ch8, L.
+ Ch.8)
 \end_layout
 
 \end_inset
@@ -935,7 +967,8 @@ Pset 3
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+(L.
+ Ch8)
 \end_layout
 
 \end_inset
@@ -1036,7 +1069,7 @@ Pset 4 Due
 \begin_inset Text
 
 \begin_layout Plain Layout
-Practice midterm and pset 4
+Midterm review and pset 4
 \end_layout
 
 \end_inset
@@ -1065,7 +1098,8 @@ Practice midterm and pset 4
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+(L.
+ Ch9)
 \end_layout
 
 \end_inset
@@ -1083,7 +1117,9 @@ Practice midterm and pset 4
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+(V.
+ Ch9, L.
+ Ch11)
 \end_layout
 
 \end_inset
@@ -1139,7 +1175,7 @@ Practice midterm and pset 4
 \begin_inset Text
 
 \begin_layout Plain Layout
-Review (Subject to change)
+Review (or WARP)
 \end_layout
 
 \end_inset
@@ -1213,7 +1249,8 @@ Solutions to Midterm Exam
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+(V.
+ Ch7)
 \end_layout
 
 \end_inset
@@ -1361,7 +1398,9 @@ Pset 5
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+(V.
+ Ch10, L.
+ Ch12)
 \end_layout
 
 \end_inset
@@ -1379,7 +1418,9 @@ Pset 5
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+(V.
+ Ch12, L.
+ Ch13)
 \end_layout
 
 \end_inset
@@ -1453,7 +1494,7 @@ Uncertainty
 \begin_inset Text
 
 \begin_layout Plain Layout
-Uncertainty
+Market Equilibrium
 \end_layout
 
 \end_inset
@@ -1509,7 +1550,9 @@ Pset 6
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+(V.
+ Ch12, L.
+ Ch14)
 \end_layout
 
 \end_inset
@@ -1527,7 +1570,9 @@ Pset 6
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+(V.
+ Ch16, L.
+ Ch14)
 \end_layout
 
 \end_inset
@@ -1657,7 +1702,9 @@ Pset 7
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+(V.
+ Ch31, L.
+ Ch29)
 \end_layout
 
 \end_inset
@@ -1675,7 +1722,10 @@ Pset 7
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+(V.
+ Ch.
+ 31, L.
+ Ch29)
 \end_layout
 
 \end_inset
@@ -1731,7 +1781,7 @@ Pset 7
 \begin_inset Text
 
 \begin_layout Plain Layout
-Externalities
+Externalities (or review)
 \end_layout
 
 \end_inset
@@ -1749,7 +1799,7 @@ Externalities
 \begin_inset Text
 
 \begin_layout Plain Layout
-Public Goods
+Public Goods (or review)
 \end_layout
 
 \end_inset
@@ -1777,6 +1827,82 @@ Public Goods
 
 \begin_layout Plain Layout
 Final Exam Review
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(V.
+ Ch34)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+(V.
+ Ch36)
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
 \end_layout
 
 \end_inset

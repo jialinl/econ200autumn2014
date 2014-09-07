@@ -1,0 +1,607 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman ae
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+
+\series bold
+\size larger
+Assignment 3
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+\size large
+Econ 200
+\end_layout
+
+\begin_layout Date
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+NOTES: 
+\end_layout
+
+\begin_layout Standard
+Each sub question is self-contained, which means, for example, assumptions
+ from part (b) does not carry to part (c).
+\end_layout
+
+\begin_layout Standard
+A few of these questions are directly taken (or modified slightly) from
+ Varian's and Lima's books, as well as Sarah Komisarow's and Grace Tsiang's
+ problem sets from previous school year.
+\end_layout
+
+\begin_layout Part
+Expenditure Minimization and Duality
+\end_layout
+
+\begin_layout Enumerate
+Consider the following expenditure minimization problem [EMP]:
+\begin_inset Formula 
+\begin{eqnarray*}
+\min_{x,y} &  & p_{x}x+p_{y}y\\
+s.t. &  & x^{\alpha}y^{1-\alpha}=\bar{U}
+\end{eqnarray*}
+
+\end_inset
+
+ for 
+\begin_inset Formula $\alpha\in(0,1)$
+\end_inset
+
+.
+ Let 
+\begin_inset Formula $\eta$
+\end_inset
+
+ denote the Lagrange multiplier on the utility constraint.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Write down the cost minimization problem with the utility constraint.
+\end_layout
+
+\begin_layout Enumerate
+Write down the Lagrangian function.
+\end_layout
+
+\begin_layout Enumerate
+Write down the First-Order Condition (FOC) with respect of 
+\begin_inset Formula $x$
+\end_inset
+
+, 
+\begin_inset Formula $y$
+\end_inset
+
+, and 
+\begin_inset Formula $\eta$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Find the Hicksian demand functions.
+ Label them 
+\begin_inset Formula $x_{h}^{\star}(p_{x},p_{y},\bar{U})$
+\end_inset
+
+ and 
+\begin_inset Formula $y_{h}^{\star}(p_{x},p_{y},\bar{U})$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Find the expenditure function: 
+\begin_inset Formula $e(p_{x},p_{y},\bar{U})$
+\end_inset
+
+.
+ What is its interpretation?
+\end_layout
+
+\begin_layout Enumerate
+Find 
+\begin_inset Formula $\eta^{\star}$
+\end_inset
+
+.
+ What is its interpretation? 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+By now, we solved the following utility maximization problem [UMP] (see
+ pset 2, part 2, problem 3): 
+\begin_inset Formula 
+\begin{eqnarray*}
+\max_{x,y} &  & x^{\alpha}y^{1-\alpha}\\
+s.t. &  & p_{x}x+p_{y}y=m
+\end{eqnarray*}
+
+\end_inset
+
+to obtain the Lagrange multiplier, 
+\begin_inset Formula $\lambda^{\star}$
+\end_inset
+
+, Marshallian demand functions 
+\begin_inset Formula $x_{m}(p_{x},p_{y},m)$
+\end_inset
+
+ and 
+\begin_inset Formula $y_{m}(p_{x},p_{y},m)$
+\end_inset
+
+, and the indirect utility function 
+\begin_inset Formula $v(p_{x},p_{y},m)$
+\end_inset
+
+.
+ Problem 1 solved the corresponding EMP to obtain the Lagrange multiplier
+ 
+\begin_inset Formula $\eta^{\star}$
+\end_inset
+
+, Hicksian demand functions 
+\begin_inset Formula $x_{h}(p_{x},p_{y},U)$
+\end_inset
+
+ and 
+\begin_inset Formula $y_{h}(p_{x},p_{y},U)$
+\end_inset
+
+, and the expenditure function 
+\begin_inset Formula $e(p_{x},p_{y},U)$
+\end_inset
+
+.
+ Using the results from these two exercises verify the following statements.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Formula $m$
+\end_inset
+
+ is a parameter, which means we can set its value to any number we want.
+ Show that if we let 
+\begin_inset Formula $m=e(p_{x},p_{y},U)$
+\end_inset
+
+, then Marshallian demands are equal to Hicksian demands.
+ 
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $U$
+\end_inset
+
+ is a parameter, which means we can set its value to any number we want.
+ Show that if we let 
+\begin_inset Formula $U=v(p_{x},p_{y},m)$
+\end_inset
+
+, then Hicksian demands are equal to Marshallian demands.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Explain graphically, making sure that you label everything clearly, what
+ is going on.
+ Use a plot of the budget constraint and the indifference curve of the consumer.
+ Be sure your explanation includes justification for the equivalence of
+ the two problems and, in particular, for parts a.
+ and b.
+\end_layout
+
+\begin_layout Enumerate
+Show that if we let 
+\begin_inset Formula $m=e(p_{x},p_{y},U)$
+\end_inset
+
+ then indirect utility function evaluated at this value is equal to the
+ target utility level, 
+\begin_inset Formula $U$
+\end_inset
+
+, of the [EMP]:
+\begin_inset Formula 
+\begin{eqnarray*}
+v(p_{x},p_{y},m=e(p_{x},p_{y},U)) & = & U
+\end{eqnarray*}
+
+\end_inset
+
+.Can you show that this implies that the expenditure function and the indirect
+ utility functions are inverses of each other?
+\end_layout
+
+\begin_layout Enumerate
+Show that if we let 
+\begin_inset Formula $U=v(p_{x},p_{y},m)$
+\end_inset
+
+ then the expenditure function evaluated at this value is equal to the consumer'
+s income in the [UMP], 
+\begin_inset Formula $m$
+\end_inset
+
+:
+\begin_inset Formula 
+\begin{eqnarray*}
+e(p_{x},p_{y},U=v(p_{x},p_{y},m)) & = & m
+\end{eqnarray*}
+
+\end_inset
+
+Can you show that this implies that the expenditure function and the indirect
+ utility functions are inverses of each other?
+\end_layout
+
+\begin_layout Enumerate
+Show that 
+\begin_inset Formula $\lambda^{\star}=\frac{1}{\eta^{\star}}$
+\end_inset
+
+ and explain the intuition of your result.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Suppose that you are given the following expenditure function: 
+\begin_inset Formula 
+\begin{eqnarray*}
+e(p_{x},p_{y},U) & = & (ap_{x}+bp_{y})\bar{U}
+\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+What is the interpretation of the expenditure function? Be very precise.
+\end_layout
+
+\begin_layout Enumerate
+What is the consumer's indirect utility function?
+\end_layout
+
+\begin_layout Enumerate
+Obtain the consumer's Marshallian demand curves.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Find 
+\begin_inset Formula $\eta^{\star}$
+\end_inset
+
+.
+ What is its interpretation?
+\end_layout
+
+\begin_layout Enumerate
+Find 
+\begin_inset Formula $\lambda^{\star}$
+\end_inset
+
+.
+ What is its interpretation?
+\end_layout
+
+\begin_layout Enumerate
+What is the underlying utility function that represents the consumer's p
+\end_layout
+
+\end_deeper
+\begin_layout Part
+Optimal Choice
+\end_layout
+
+\begin_layout Enumerate
+Nathan now enjoys cigars and brandy.
+ His preference relation can be represented by the following utility function:
+\begin_inset Formula 
+\begin{eqnarray*}
+U(c,b) & = & 18c-3c^{2}+20b-2b^{2}
+\end{eqnarray*}
+
+\end_inset
+
+You may assume that the price of each cigar is 10 dollars and the price
+ of each glass of brandy is 5 dollars.
+ (Cigars and brandy can be consumed in fractions.
+ Do not worry about discreteness.)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+In a diagram, plot several of Nathan's indifference curves.
+\end_layout
+
+\begin_layout Enumerate
+How many cigars and glasses of brandy does Nathan consume an evening if
+ cost is no problem? How much money does he spend? Place his consumption
+ bundle on the diagram from part a.
+\end_layout
+
+\begin_layout Enumerate
+How many cigars and glasses of brandy does Nathan consume an evening if
+ his income is 50 dollars? Draw the budget constraint in your diagram and
+ place his consumption bundle as well.
+\end_layout
+
+\begin_layout Enumerate
+How many cigars and glasses of brandy does Nathan consume an evening if
+ his income is 100 dollars? Draw the budget constraint in your diagram and
+ place his consumption bundle as well.
+\end_layout
+
+\begin_layout Enumerate
+Suppose Nathan's doctor April says that he should not consume more than
+ a total of 5 brandies and cigars.
+ How many cigars and glasses of brandy will Nathan have? Draw the budget
+ constraint in your diagram and place his consumption bundle as well.
+ Explain the intuition behind your solution.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Taylor consumes a breakfast of bacon and eggs at her favorite restaurant.
+ She likes to eat each fried egg with exactly two slices of bacon.
+ Assume that the restaurant will allow her to order fractions of eggs/bacon.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Write down the utility function represents her preferences.
+\end_layout
+
+\begin_layout Enumerate
+If Taylor has $16 to spend on breakfast and faces prices 
+\begin_inset Formula $p_{bacon}=2$
+\end_inset
+
+ and 
+\begin_inset Formula $p_{eggs}=4$
+\end_inset
+
+, what are her optimal choices of eggs and bacon?
+\end_layout
+
+\begin_layout Enumerate
+Suppose there is an increase in the price of bacon, so that 
+\begin_inset Formula $p_{bacon}=4$
+\end_inset
+
+.
+ What are her optimal choices of eggs and bacon now?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Use the Cobb-Douglas Utility function from question 1 of Part 1.
+ Suppose price of 
+\begin_inset Formula $x$
+\end_inset
+
+ is 
+\begin_inset Formula $p_{x}$
+\end_inset
+
+, and price of 
+\begin_inset Formula $y$
+\end_inset
+
+ is 
+\begin_inset Formula $p_{y}$
+\end_inset
+
+, income is 
+\begin_inset Formula $m$
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Write down the utility maximization problem with the budget constraint.
+\end_layout
+
+\begin_layout Enumerate
+Write down the Lagrangian function.
+\end_layout
+
+\begin_layout Enumerate
+Write down the First-Order Condition (FOC) with respect of 
+\begin_inset Formula $x$
+\end_inset
+
+, 
+\begin_inset Formula $y$
+\end_inset
+
+, and 
+\begin_inset Formula $\lambda$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+What do the first 2 FOCs imply about the relationship between MRS and the
+ relative price of 
+\begin_inset Formula $x$
+\end_inset
+
+ and 
+\begin_inset Formula $y$
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Enumerate
+Solve for 
+\begin_inset Formula $x^{\star}$
+\end_inset
+
+ and 
+\begin_inset Formula $y^{\star}$
+\end_inset
+
+ as functions of 
+\begin_inset Formula $p_{x}$
+\end_inset
+
+, 
+\begin_inset Formula $p_{y}$
+\end_inset
+
+, and 
+\begin_inset Formula $m$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Using the expressions you found for 
+\begin_inset Formula $x^{\star}$
+\end_inset
+
+ and 
+\begin_inset Formula $y^{\star}$
+\end_inset
+
+, calculate the shares of income spent on 
+\begin_inset Formula $x$
+\end_inset
+
+ and 
+\begin_inset Formula $y$
+\end_inset
+
+.
+ What does this depend on? (Note: the result you find is particular to the
+ Cobb-Douglas functional form; it does not hold for any arbitrary utility
+ function).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Suppose that you have to decide where you will attend college.
+ You were only admitted at Chicago and at Yale.
+ Let 
+\begin_inset Formula $C$
+\end_inset
+
+ denote the number of years that you will spend at Chicago and 
+\begin_inset Formula $Y$
+\end_inset
+
+ denote the number of years you will spend at Yale.
+ Suppose that your utility function is given by:
+\begin_inset Formula 
+\begin{eqnarray*}
+U(C,Y) & = & 3C+2Y
+\end{eqnarray*}
+
+\end_inset
+
+Suppose that tuition equals 30,000 dollars per year and is the same at both
+ institutions and you can borrow up to $120,000 dollars to pay for tuition.
+ If you can transfer between schools immediately and costlessly as many
+ times as you want, how much financial aid does Yale need to give you to
+ convince you to switch schools?
+\end_layout
+
+\end_body
+\end_document
