@@ -1,0 +1,449 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman ae
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+
+\series bold
+\size larger
+Assignment 4
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+\size large
+Econ 200
+\end_layout
+
+\begin_layout Date
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+NOTES: 
+\end_layout
+
+\begin_layout Standard
+Each sub question is self-contained, which means, for example, assumptions
+ from part (b) does not carry to part (c).
+\end_layout
+
+\begin_layout Standard
+A few of these questions are directly taken (or modified slightly) from
+ Varian's and Lima's books, as well as Sarah Komisarow's and Grace Tsiang's
+ problem sets from previous school year.
+\end_layout
+
+\begin_layout Part
+Demand; Slustky Equation
+\end_layout
+
+\begin_layout Enumerate
+Suppose a consumer has preferences between two goods that are perfect substitute
+s.
+ Can you change prices in such a way that the entire demand response is
+ due to the income effect?
+\end_layout
+
+\begin_layout Enumerate
+Suppose that the preferences are concave.
+ Is it still the case that the substitution effect is negative?
+\end_layout
+
+\begin_layout Enumerate
+True, False, or Uncertain? Explain whether you agree or disagree with the
+ following statements.
+ Be brief (5 lines or less) and be very clear.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+If a good is a normal good, the demand function must have a negative slope.
+\end_layout
+
+\begin_layout Enumerate
+If the demand function has a negative slope, then the good is a normal good.
+\end_layout
+
+\begin_layout Enumerate
+If a good is inferior, then the demand function must have a positive slope.
+\end_layout
+
+\begin_layout Enumerate
+If the demand function has a positive slope, then the good is inferior.
+\end_layout
+
+\begin_layout Enumerate
+If a good is a normal good, then the consumer spends an increasing fraction
+ of total income on it as income increases.
+\end_layout
+
+\begin_layout Enumerate
+If two goods are perfect complements, the substitution effect is zero.
+ 
+\end_layout
+
+\begin_layout Enumerate
+If two goods are perfect substitutes, then the substitution effect is zero.
+\end_layout
+
+\begin_layout Enumerate
+If two goods are perfect complements, then the income effect is positive.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Suppose that Alex likes chocolate ice cream and Oreo cookies.
+ Suppose that after collecting data some researchers conclude that Alex's
+ utility function is given by:
+\begin_inset Formula 
+\begin{eqnarray*}
+U(C,I) & = & C^{0.7}I^{0.3}
+\end{eqnarray*}
+
+\end_inset
+
+where 
+\begin_inset Formula $C$
+\end_inset
+
+ denotes consumption of cookies and 
+\begin_inset Formula $I$
+\end_inset
+
+ denotes consumption of ice-cream.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+If Alex's income is 
+\begin_inset Formula $m$
+\end_inset
+
+, the price of ice cream is 
+\begin_inset Formula $p_{I}$
+\end_inset
+
+ and the price of cookies is 
+\begin_inset Formula $p_{C}$
+\end_inset
+
+, what are the demand functions for ice-cream and cookies?
+\end_layout
+
+\begin_layout Enumerate
+Draw the demand functions for ice cream, when 1, 
+\begin_inset Formula $p_{C}=3$
+\end_inset
+
+ and 
+\begin_inset Formula $m=10$
+\end_inset
+
+; 2, 
+\begin_inset Formula $p_{C}=4$
+\end_inset
+
+ and 
+\begin_inset Formula $m=10$
+\end_inset
+
+; 3, 
+\begin_inset Formula $p_{C}=3$
+\end_inset
+
+ and 
+\begin_inset Formula $m=12$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Comment on the effect that changes in 
+\begin_inset Formula $p_{C}$
+\end_inset
+
+ have on demand for ice cream when we hold 
+\begin_inset Formula $m$
+\end_inset
+
+ fixed.
+\end_layout
+
+\begin_layout Enumerate
+Comment on the effect that changes in 
+\begin_inset Formula $m$
+\end_inset
+
+ have on demand for ice cream when we hold 
+\begin_inset Formula $p_{C}$
+\end_inset
+
+ fixed.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Consider a consumer that orders his preferences according to the following
+ utility function defined over packs of cigarettes and bottles of beer:
+\begin_inset Formula 
+\begin{eqnarray*}
+U(b,c) & = & bc
+\end{eqnarray*}
+
+\end_inset
+
+The price of a beer bottle equals 2 dollars per bottle and the price of
+ cigarettes equals 10 dollars per pack.
+ Suppose the consumer's income equals 100 dollars.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Write down the consumer's optimal consumption problem.
+\end_layout
+
+\begin_layout Enumerate
+How many packs of cigarettes does the consumer buy? How many bottles of
+ beer?
+\end_layout
+
+\begin_layout Enumerate
+Plot your solution and draw the budget line in black ink and label the optimal
+ bundle with the letter 
+\begin_inset Formula $O$
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Continue with problem 5, suppose now that the price of beer decreases to
+ 1 dollar per bottle.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Suppose that the consumer is compensated for the decrease in the price of
+ beer with sufficient money so that he can still barely afford the consumption
+ bundle he purchased before the price of beer bottles decreased.
+ What would his new income level be?
+\end_layout
+
+\begin_layout Enumerate
+How many beer bottles and cigarette packs does the consumer purchase at
+ the lower price of beer and his new income?
+\end_layout
+
+\begin_layout Enumerate
+Using red ink, draw the new budget line and label the new optimal point,
+ Points 
+\begin_inset Formula $C_{S}$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Does the substitution effect of the decrease in the price of beer lead the
+ consumer to purchase more or fewer beer bottles? How about packs of cigarettes?
+ How many more or less of each?
+\end_layout
+
+\begin_layout Enumerate
+How many beer bottles and packs of cigarettes does the consumer purchase
+ at the new prices and his original income?
+\end_layout
+
+\begin_layout Enumerate
+Draw this new budget line in blue ink and label the new optimal consumption
+ bundle, point 
+\begin_inset Formula $F$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Draw lines that are perpendicular to the y-axis (where y-axis represents
+ consumption of beer) and pass through points 
+\begin_inset Formula $O$
+\end_inset
+
+, 
+\begin_inset Formula $C_{S}$
+\end_inset
+
+, 
+\begin_inset Formula $F$
+\end_inset
+
+.
+ Label the income effect, the substitution effect, and the total effect
+ of the price change on demand for beer bottles.
+ What is the magnitude of the substitution effect? What is the magnitude
+ of the income effect?
+\end_layout
+
+\begin_layout Enumerate
+Explain the economic importance of decomposing a price change into an income
+ and a substitution effect.
+\end_layout
+
+\end_deeper
+\begin_layout Part
+Welfare and elasticities
+\end_layout
+
+\begin_layout Enumerate
+Consider the inverse demand function: 
+\begin_inset Formula $p_{1}=(\frac{x_{1}}{\alpha})^{\frac{1}{\beta}}$
+\end_inset
+
+.
+ Calculate the own-price elasticity of demand.
+ Express your answer as a function of the parameters only.
+ How does your answer depend on the value of 
+\begin_inset Formula $x_{1}$
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Enumerate
+Consider the demand function:
+\begin_inset Formula 
+\begin{eqnarray*}
+x_{1} & = & 400-\frac{1}{2}p_{1}
+\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Calculate the own-price elasticity of demand when 
+\begin_inset Formula $x_{1}=100$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Calculate the own-price elasticity of demand when 
+\begin_inset Formula $x_{1}=390$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Compare the two numbers you found in parts a and b.
+ Interpret the magnitudes that you found.
+\end_layout
+
+\begin_layout Enumerate
+At what point is 
+\begin_inset Formula $|\epsilon|=1$
+\end_inset
+
+?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Calculate the change in consumer surplus for a consumer whose marginal willingne
+ss-to-pay is given by 
+\begin_inset Formula $p_{1}=10-4x_{1}$
+\end_inset
+
+, when the price of good 1 decreases from 
+\begin_inset Formula $p_{1}=4$
+\end_inset
+
+ to 2.
+ Sketch a graph to illustrate the gain in consumer surplus described above.
+\end_layout
+
+\end_body
+\end_document
