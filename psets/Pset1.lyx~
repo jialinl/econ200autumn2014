@@ -137,6 +137,10 @@ A few of these questions are directly taken (or modified slightly) from
  problem sets from previous school year.
 \end_layout
 
+\begin_layout Standard
+The points possible is 50.
+\end_layout
+
 \begin_layout Part
 Budget Sets
 \end_layout
@@ -170,21 +174,23 @@ Suppose initially the United States faces a budget line of
 \end_inset
 
  does not change.
+ (10 points)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 Draw both the initial and new budget line.
- 
+ (4 points)
 \end_layout
 
 \begin_layout Enumerate
-What is the new relative price of labor and capital?
+What is the new relative price of labor and capital? (1 point)
 \end_layout
 
 \begin_layout Enumerate
 Is the United States better or worse off? Indicate in your figure the gain
  or loss of available consumption bundles due to international competition.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -199,7 +205,7 @@ Now suppose
 
  have to change such that the maximum consumption of labor input is back
  to the initial value? Is the United States better or worse off now compared
- with the initial case?
+ with the initial case? (2 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -219,73 +225,71 @@ Find data on average hourly REAL wage (think of it as
 
  have not changed.
  Is the budget set larger or smaller in 2000 compared with a decade later?
+ (2 points)
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
 Anne is a frequent flier whose fares are reduced 25% after she flies 25,000
  miles a year and then by 50% after she flies 50,000 miles.
- Assume that the price of 1 mile is $10 and the price of a unit of all other
- goods is $1.
- 
+ Assume that the price of 1 mile is $10, the price of a unit of all other
+ goods is $1, and she has wealth 
+\begin_inset Formula $m$
+\end_inset
+
+ which is large enough to purchase more than 50,000 miles worth of airfare.
+ (7 points)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 Graph the budget line that Anne faces in making her flight plans for the
  year.
+ (4 points)
 \end_layout
 
 \begin_layout Enumerate
 At what rate can Anne replace one mile with other goods if she flies less
- than 25,000 miles?
+ than 25,000 miles? (1 point)
 \end_layout
 
 \begin_layout Enumerate
 At what rate can Anne replace one mile with other goods if she flies more
- than 25,000 miles, but less than 50,000 miles?
+ than 25,000 miles, but less than 50,000 miles? (1 point)
 \end_layout
 
 \begin_layout Enumerate
 At what rate can Anne replace one mile with other goods if she flies more
- than 50,000 miles?
+ than 50,000 miles? (1 point)
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-Nathan has $100 on his credit card (he only has this one credit card for
- all his consumption, no other means of money) to spend on pizza and coffee.
+Nathan has $100 on his debit card (he only has this one card for all his
+ consumption, no other means of money) to spend on pizza and coffee.
  The first three cups of coffee cost $3 dollar each.
  The rest cost $1 dollar (think of it as cheap refills).
  $20 for the first pizza, half of off for the second and third, $5 for the
  rest.
- 
+ (7 points)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 Graph the budget set.
+ (4 points)
 \end_layout
 
 \begin_layout Enumerate
 Suppose April is worried about Nathan's health.
- She magically controls for Nathan's credit card such that he cannot purchase
- more than three cups of coffee.
- What does the budget line look like now?
-\end_layout
-
-\begin_layout Enumerate
-Suppose the government is concerned for obesity and puts a heavy tax 
-\begin_inset Formula $\tau$
-\end_inset
-
- on each additional pizza after the first pizza.
- What does the budget line look like now? 
+ She magically controls for Nathan's card such that he cannot purchase more
+ than three cups of coffee.
+ What does the budget line look like now? (1 point)
 \end_layout
 
 \begin_layout Enumerate
 Suppose the oven breaks down and there are only 5 pizzas available for sale.
- What does the budget line look like now?
+ What does the budget line look like now? (2 points)
 \end_layout
 
 \end_deeper
@@ -308,7 +312,7 @@ Suppose that a budget equation is given by
 \end_inset
 
 .
- What is the formula for the new budget line?
+ What is the formula for the new budget line? (2 points)
 \end_layout
 
 \begin_layout Part
@@ -318,7 +322,7 @@ Preferences
 \begin_layout Enumerate
 Explain whether the following preference relations satisfy completeness,
  transitivity, and reflexivity.
- 
+ (9 points)
 \end_layout
 
 \begin_deeper
@@ -332,7 +336,7 @@ at least as tall as
 \end_inset
 
 .
- 
+ (3 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -345,11 +349,13 @@ strictly taller than
 \end_inset
 
 .
+ (3 points)
 \end_layout
 
 \begin_layout Enumerate
 A college basketball coach says that given any two players A and B, he always
  prefers the one who is taller and faster.
+ (3 points)
 \end_layout
 
 \end_deeper
@@ -357,6 +363,7 @@ A college basketball coach says that given any two players A and B, he always
 Just for fun: Test to see if your preferences satisfy the transitivity assumptio
 n by playing a little game designed by some economist at MIT: http://gametheory.t
 au.ac.il/exp11/ To receive credit for this question, report your results.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -364,50 +371,66 @@ Draw indifference curves that represent the following preferences for pizza
  (horizontal axis) and lemonade (vertical axis).
  Indicate with an arrow the direction in which the individuals’ satisfaction
  is increasing.
+ (4 points)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 Jessica loves pizza but does not care about lemonade one way or the other.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
 Brian loves pizza but dislikes lemonade.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
 Claire has convex preferences and dislikes both pizza and lemonade.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
 Erin loves pizza and lemonade and insists on consuming exactly 2 glasses
  of lemonade with every slice of pizza.
+ (1 point)
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-What is your marginal rate of substitution of $1 bills for $5 bills?
+What is your marginal rate of substitution of $1 bills for $5 bills? (1
+ point)
 \end_layout
 
 \begin_layout Enumerate
 Mary's indifference curve crosses three consumption bundles: point A (80
- apple, 2 pizza), point B (40 apples, 3 pizza), and point C (20 apples,
+ apples, 2 pizza), point B (40 apples, 3 pizza), and point C (20 apples,
  4 pizza).
  Her indifference curve is convex and smooth.
+ Apples are on the x-axis and pizza is on the y-axis.
  Mary is willing to exchange 50 apples for a marginal amount of extra consumptio
 n of pizza at point A, 30 at point B, and 10 at point C.
+ (9 points)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-What is the marginal rate of substitution at each of these points? Be clear
- with the units.
- 
+What is the marginal rate of substitution (MRS) at each of these points?
+ Be clear with the units.
+ (3 points)
 \end_layout
 
 \begin_layout Enumerate
-At point B, someone offered to trade 2 pizza with Mary for 80 apples, will
- Mary accept the offer? What about the same offer at point A and C?
+At point B, someone offered to give Mary 80 apples in exchange for 2 pizzas.
+ Will Mary accept the offer? What about the same offer at point A and C?
+ (3 points)
+\end_layout
+
+\begin_layout Enumerate
+What is the slope between point A and B if they were connected with a straight
+ line? Compare this slope with the MRS at point A.
+ Why does it have to be the case that the MRS at point A in absolute value
+ is greater than the slope between the two points? (3 points)
 \end_layout
 
 \end_deeper
