@@ -1,0 +1,357 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman ae
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+
+\series bold
+\size larger
+Assignment 5
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+\size large
+Econ 200
+\end_layout
+
+\begin_layout Date
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+NOTES: 
+\end_layout
+
+\begin_layout Standard
+Each sub question is self-contained, which means, for example, assumptions
+ from part (b) does not carry to part (c).
+\end_layout
+
+\begin_layout Standard
+A few of these questions are directly taken (or modified slightly) from
+ Varian's and Lima's books, as well as Sarah Komisarow's and Grace Tsiang's
+ problem sets from previous school year.
+\end_layout
+
+\begin_layout Part
+Endowment Economy
+\end_layout
+
+\begin_layout Enumerate
+Can you draw indifference curves and budget sets, such that at the low price
+ of good 
+\begin_inset Formula $x$
+\end_inset
+
+, the consumer buys good 
+\begin_inset Formula $x$
+\end_inset
+
+, but after the increase in the price of good 
+\begin_inset Formula $x$
+\end_inset
+
+ he switches to selling, but is worse off as a result of the price increase?
+ If so, draw it.
+ If not, explain why not.
+\end_layout
+
+\begin_layout Enumerate
+If the price of a normal good increases, the consumer is worse off and he
+ reduces consumption of the good.
+ 
+\end_layout
+
+\begin_layout Enumerate
+A poor rice farmer in India grows rice, a part of which he sells on the
+ open market and the rest he and his family consume.
+ If the price of rice in the open market increases, will this family increase
+ or decrease its consumption of rice? Explain.
+\end_layout
+
+\begin_layout Enumerate
+The prices are 
+\begin_inset Formula $(p_{1},p_{2})=(2,3)$
+\end_inset
+
+, and the consumer is currently consuming 
+\begin_inset Formula $(x_{1},x_{2})=(4,4)$
+\end_inset
+
+.
+ There is a perfect market for the two goods in which they can be brought
+ and sold costlessly.
+ Will the consumer prefer consuming the bundle 
+\begin_inset Formula $(y_{1},y_{2})=(3,5)$
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Enumerate
+The prices are 
+\begin_inset Formula $(p_{1},p_{2})=(2,3)$
+\end_inset
+
+, and the consumer is currently consuming 
+\begin_inset Formula $(x_{1},x_{2})=(4,4)$
+\end_inset
+
+.
+ Now prices change to 
+\begin_inset Formula $(q_{1},q_{2})=(2,4)$
+\end_inset
+
+.
+ Could the consumer be better off under these new prices?
+\end_layout
+
+\begin_layout Enumerate
+Jessica is a farmer.
+ She grows tomatoes and squash, which she also consumes.
+ Suppose Jessica's utility function is given by: 
+\begin_inset Formula 
+\begin{eqnarray*}
+U(T,S) & = & T^{0.4}S^{0.6}
+\end{eqnarray*}
+
+\end_inset
+
+where 
+\begin_inset Formula $T$
+\end_inset
+
+ denotes tomatoes and 
+\begin_inset Formula $S$
+\end_inset
+
+ denotes squash.
+ Assume that any quantity of tomatoes and any quantity of squash can be
+ purchased.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Suppose that the price of tomatoes is 1 dollar and the price of squash is
+ 2 dollars.
+ Jessica's farm produces 100 pounds of tomatoes and 50 pounds of squash.
+ On a graph, draw the budget constraint in red ink and label the initial
+ endowment point E.
+\end_layout
+
+\begin_layout Enumerate
+What are Jessica's gross demands? What are her net demands? Label her chosen
+ (consumption) point 
+\begin_inset Formula $O$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Suppose that before Jessica sells her endowment, the price of squash falls
+ to 1 dollar and the price of tomatoes stays at 1 dollar.
+ Draw the new budget line in blue ink.
+ Does Jessica's demand for squash rise or fall? By how much? What happens
+ to demand for tomatoes?
+\end_layout
+
+\begin_layout Enumerate
+Plot (no need to calculate) the Hicksian substitution effect, the ordinary
+ income effect, and the endowment effect on your diagram labeling each chosen
+ point clearly.
+\end_layout
+
+\begin_layout Enumerate
+Suppose that the price of squash falls after Jessica has sold her endowment
+ for money.
+ How much squash will she consume now? How about tomatoes? What are the
+ income and substitution effects? 
+\end_layout
+
+\begin_layout Enumerate
+Does the timing of the price change matter? Is Jessica better or worse off
+ if the price change occurs before she sells her endowment, or after she
+ sells her endowment? 
+\end_layout
+
+\end_deeper
+\begin_layout Part
+Labor Supply
+\end_layout
+
+\begin_layout Enumerate
+If leisure is an inferior good, what can you say about the slope of the
+ labor supply curve? 
+\end_layout
+
+\begin_layout Enumerate
+Consider a consumer whose preferences are given by:
+\begin_inset Formula 
+\begin{eqnarray*}
+U(C,R) & = & \alpha\log C+(1-\alpha)\log R
+\end{eqnarray*}
+
+\end_inset
+
+where 
+\begin_inset Formula $C$
+\end_inset
+
+ denotes consumption and 
+\begin_inset Formula $R$
+\end_inset
+
+ denotes leisure.
+ The consumer has 
+\begin_inset Formula $T$
+\end_inset
+
+ units of time that he can either allocate to leisure, 
+\begin_inset Formula $R$
+\end_inset
+
+, or to labor, 
+\begin_inset Formula $L$
+\end_inset
+
+.
+ Let 
+\begin_inset Formula $p$
+\end_inset
+
+ denote the nomial price of one unit of consumption and 
+\begin_inset Formula $w$
+\end_inset
+
+ denote the nominal wage.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+If 
+\begin_inset Formula $V$
+\end_inset
+
+ denotes the consumer non-labor income, write out his budget constraint.
+\end_layout
+
+\begin_layout Enumerate
+Derive the consumer's labor supply function.
+\end_layout
+
+\begin_layout Enumerate
+For what value of 
+\begin_inset Formula $V$
+\end_inset
+
+ will the consumer supply positive hours of labor?
+\end_layout
+
+\begin_layout Enumerate
+Suppose, that the consumer's labor income is taxed at the constant rate
+ 
+\begin_inset Formula $\tau$
+\end_inset
+
+.
+ This means that the consumer’s nominal after-tax wage is 
+\begin_inset Formula $(1-\tau)w$
+\end_inset
+
+.
+ Repeat problems (a)-(c).
+ In addition, calculate how much revenue does the government collect from
+ the tax? Also find out what value of tax rate maximizes the government's
+ revenue.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Retail clothing stores often give salespersons discounts on clothes they
+ purchase.
+ This is done, presumably, to encourage salespersons to dress well.
+ Demonstarte that this policy is less costly than raising salaries to achieve
+ the same result.
+ [Hint: income and substitution effect on labor supply.]
+\end_layout
+
+\end_body
+\end_document
