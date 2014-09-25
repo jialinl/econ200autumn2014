@@ -109,6 +109,10 @@ A few of these questions are directly taken (or modified slightly) from
  problem sets from previous school year.
 \end_layout
 
+\begin_layout Standard
+Total points possible is 65.
+\end_layout
+
 \begin_layout Part
 Utility
 \end_layout
@@ -127,6 +131,7 @@ U(x,y) & = & x^{\alpha}y^{1-\alpha}
 \end_inset
 
 .
+ (10 points)
 \end_layout
 
 \begin_deeper
@@ -140,7 +145,7 @@ Suppose
 \end_inset
 
 .
- 
+ (1 point total for (a)-(c))
 \end_layout
 
 \begin_layout Enumerate
@@ -149,6 +154,7 @@ Repeat part a, but suppose that
 \end_inset
 
 .
+ 
 \end_layout
 
 \begin_layout Enumerate
@@ -157,6 +163,7 @@ Repeat part a, but suppose that
 \end_inset
 
 .
+ 
 \end_layout
 
 \begin_layout Enumerate
@@ -166,6 +173,7 @@ Looking at the graphs, give an economic explanation for the importance of
 \end_inset
 
 .
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -176,11 +184,12 @@ Compute the Marginal Rate of Substitution, and find its derivative with
 
 .
  Can you relate this derivative to your plot.
+ (4 points)
 \end_layout
 
 \begin_layout Enumerate
 Which of the three indifference curves has the steepest slope? The flattest
- slope?
+ slope? (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -194,7 +203,7 @@ Suppose these preferences represent three different individuals, all with
 \begin_inset Formula $y$
 \end_inset
 
-?
+? (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -204,12 +213,13 @@ Explain the intuition of your answer in terms of each consumer's willingness
 \end_inset
 
 .
+ (2 points)
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
 Consider, now, the logarithmic transformation of Cobb-Douglas preferences:
- 
+ (10 points) 
 \begin_inset Formula 
 \begin{eqnarray*}
 U(x,y) & = & \alpha\log(x)+(1-\alpha)\log(y)
@@ -223,6 +233,7 @@ U(x,y) & = & \alpha\log(x)+(1-\alpha)\log(y)
 \begin_deeper
 \begin_layout Enumerate
 Show that this preference relation is homothetic.
+ (2 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -230,7 +241,7 @@ Compute the marginal rates of substitution between x and y.
  Compare it with the marginal rate of substitution in part (e) of question
  1.
  What do you conclude? Is logarithmic transformation a monotonic transformation?
- 
+ (3 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -252,6 +263,7 @@ Now, assume that
 \end_inset
 
 .
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -270,7 +282,7 @@ Now, let the relation between
 .
  Draw this in your coordinate plane.
  Find the point of intersection between the line and each indifference curve.
- Computer the MRS at each of these three points.
+ Compute the MRS at each of these three points.
  Relate the answer to part a to the graph you have constructed.
  Explain the behavior of a 
 \begin_inset Quotes eld
@@ -281,6 +293,7 @@ homothetic
 \end_inset
 
  agent.
+ (5 points)
 \end_layout
 
 \end_deeper
@@ -317,7 +330,7 @@ not
  diminishing marginal utility, is the condition that we need to be able
  to study individual behavior.
  It is the indifference curves that matter for individual behavior.
- 
+ (4 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -331,10 +344,11 @@ Use this utility function
  the marginal utility, and the elasticity of substitution.
  Be sure to talk about what properties of the indifference curve they each
  capture (hint: level, shape, slope, etc).
- What about them that have to be true for any utility function to represent
- a well-behaved preference (i.e.
+ What about them has to be true for any utility function to represent a
+ well-behaved preference (i.e.
  completeness, transitivity, reflexivity, monotonicity, and convexity assumption
 s all fulfilled)? Hint: revisit question 3.
+ (10 points)
 \end_layout
 
 \begin_layout Part
@@ -354,30 +368,34 @@ U(c,b) & = & 18c-3c^{2}+20b-2b^{2}
 You may assume that the price of each cigar is 10 dollars and the price
  of each glass of brandy is 5 dollars.
  (Cigars and brandy can be consumed in fractions.
- Do not worry about discreteness.)
+ Do not worry about discreteness.) (14 points)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 In a diagram, plot several of Nathan's indifference curves.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
 How many cigars and glasses of brandy does Nathan consume an evening if
  cost is no problem? How much money does he spend? Place his consumption
  bundle on the diagram from part a.
+ (3 points)
 \end_layout
 
 \begin_layout Enumerate
 How many cigars and glasses of brandy does Nathan consume an evening if
  his income is 50 dollars? Draw the budget constraint in your diagram and
  place his consumption bundle as well.
+ (3 points)
 \end_layout
 
 \begin_layout Enumerate
 How many cigars and glasses of brandy does Nathan consume an evening if
  his income is 100 dollars? Draw the budget constraint in your diagram and
  place his consumption bundle as well.
+ (3 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -386,6 +404,7 @@ Suppose Nathan's doctor April says that he should not consume more than
  How many cigars and glasses of brandy will Nathan have? Draw the budget
  constraint in your diagram and place his consumption bundle as well.
  Explain the intuition behind your solution.
+ (4 points)
 \end_layout
 
 \end_deeper
@@ -393,11 +412,13 @@ Suppose Nathan's doctor April says that he should not consume more than
 Taylor consumes a breakfast of bacon and eggs at her favorite restaurant.
  She likes to eat each fried egg with exactly two slices of bacon.
  Assume that the restaurant will allow her to order fractions of eggs/bacon.
+ (5 points)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 Write down the utility function represents her preferences.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -409,7 +430,7 @@ If Taylor has $16 to spend on breakfast and faces prices
 \begin_inset Formula $p_{eggs}=4$
 \end_inset
 
-, what are her optimal choices of eggs and bacon?
+, what are her optimal choices of eggs and bacon? (2 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -418,7 +439,7 @@ Suppose there is an increase in the price of bacon, so that
 \end_inset
 
 .
- What are her optimal choices of eggs and bacon now?
+ What are her optimal choices of eggs and bacon now? (2 points)
 \end_layout
 
 \end_deeper
@@ -445,15 +466,18 @@ Use the Cobb-Douglas Utility function from question 1 of Part 1.
 \end_inset
 
 .
+ (9 points)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 Write down the utility maximization problem with the budget constraint.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
 Write down the Lagrangian function.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -470,6 +494,7 @@ Write down the First-Order Condition (FOC) with respect of
 \end_inset
 
 .
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -482,7 +507,7 @@ What do the first 2 FOCs imply about the relationship between MRS and the
 \begin_inset Formula $y$
 \end_inset
 
-?
+? (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -507,6 +532,7 @@ Solve for
 \end_inset
 
 .
+ (3 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -530,6 +556,7 @@ Using the expressions you found for
  What does this depend on? (Note: the result you find is particular to the
  Cobb-Douglas functional form; it does not hold for any arbitrary utility
  function).
+ (2 point)
 \end_layout
 
 \end_deeper
@@ -557,7 +584,7 @@ Suppose that tuition equals 30,000 dollars per year and is the same at both
  institutions and you can borrow up to $120,000 dollars to pay for tuition.
  If you can transfer between schools immediately and costlessly as many
  times as you want, how much financial aid does Yale need to give you to
- convince you to switch schools?
+ convince you to switch schools? (3 points)
 \end_layout
 
 \end_body
