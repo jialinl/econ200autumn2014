@@ -109,6 +109,10 @@ A few of these questions are directly taken (or modified slightly) from
  problem sets from previous school year.
 \end_layout
 
+\begin_layout Standard
+There are a total of 70 points possible.
+\end_layout
+
 \begin_layout Part
 Expenditure Minimization and Duality
 \end_layout
@@ -133,16 +137,18 @@ s.t. &  & x^{\alpha}y^{1-\alpha}=\bar{U}
 \end_inset
 
  denote the Lagrange multiplier on the utility constraint.
- 
+ (15 points)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 Write down the cost minimization problem with the utility constraint.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
 Write down the Lagrangian function.
+ (1 point) 
 \end_layout
 
 \begin_layout Enumerate
@@ -159,6 +165,7 @@ Write down the First-Order Condition (FOC) with respect of
 \end_inset
 
 .
+ (3 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -172,6 +179,7 @@ Find the Hicksian demand functions.
 \end_inset
 
 .
+ (4 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -180,7 +188,7 @@ Find the expenditure function:
 \end_inset
 
 .
- What is its interpretation?
+ What is its interpretation? (3 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -189,7 +197,7 @@ Find
 \end_inset
 
 .
- What is its interpretation? 
+ What is its interpretation? (3 points)
 \end_layout
 
 \end_deeper
@@ -216,10 +224,6 @@ to obtain the Lagrange multiplier,
 \begin_inset Formula $y_{m}(p_{x},p_{y},m)$
 \end_inset
 
-, and the indirect utility function 
-\begin_inset Formula $v(p_{x},p_{y},m)$
-\end_inset
-
 .
  Problem 1 solved the corresponding EMP to obtain the Lagrange multiplier
  
@@ -240,6 +244,7 @@ to obtain the Lagrange multiplier,
 
 .
  Using the results from these two exercises verify the following statements.
+ (22 points)
 \end_layout
 
 \begin_deeper
@@ -252,11 +257,25 @@ to obtain the Lagrange multiplier,
 \begin_inset Formula $m=e(p_{x},p_{y},U)$
 \end_inset
 
-, then Marshallian demands are equal to Hicksian demands.
- 
+, then the Marshallian demand for good 
+\begin_inset Formula $x$
+\end_inset
+
+ equals the Hicksian demand for good 
+\begin_inset Formula $x$
+\end_inset
+
+.
+ (2 points)
 \end_layout
 
 \begin_layout Enumerate
+Use your results from pset 2, part2, problem 3 to find the indirect utility
+ function 
+\begin_inset Formula $v(p_{x},p_{y},m)$
+\end_inset
+
+.
 \begin_inset Formula $U$
 \end_inset
 
@@ -265,8 +284,16 @@ to obtain the Lagrange multiplier,
 \begin_inset Formula $U=v(p_{x},p_{y},m)$
 \end_inset
 
-, then Hicksian demands are equal to Marshallian demands.
- 
+, then the Hicksian demand for good 
+\begin_inset Formula $x$
+\end_inset
+
+ is equal to the Marshallian demand for good 
+\begin_inset Formula $x$
+\end_inset
+
+.
+ (3 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -276,6 +303,7 @@ Explain graphically, making sure that you label everything clearly, what
  Be sure your explanation includes justification for the equivalence of
  the two problems and, in particular, for parts a.
  and b.
+ (8 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -296,8 +324,8 @@ v(p_{x},p_{y},m=e(p_{x},p_{y},U)) & = & U
 
 \end_inset
 
-.Can you show that this implies that the expenditure function and the indirect
- utility functions are inverses of each other?
+Can you show that this implies that the expenditure function and the indirect
+ utility functions are inverses of each other? (3 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -319,7 +347,7 @@ e(p_{x},p_{y},U=v(p_{x},p_{y},m)) & = & m
 \end_inset
 
 Can you show that this implies that the expenditure function and the indirect
- utility functions are inverses of each other?
+ utility functions are inverses of each other? (3 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -328,11 +356,13 @@ Show that
 \end_inset
 
  and explain the intuition of your result.
+ (3 points)
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-Suppose that you are given the following expenditure function: 
+Suppose that you are given the following expenditure function: (9 points)
+ 
 \begin_inset Formula 
 \begin{eqnarray*}
 e(p_{x},p_{y},U) & = & (ap_{x}+bp_{y})\bar{U}
@@ -346,15 +376,16 @@ e(p_{x},p_{y},U) & = & (ap_{x}+bp_{y})\bar{U}
 \begin_deeper
 \begin_layout Enumerate
 What is the interpretation of the expenditure function? Be very precise.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
-What is the consumer's indirect utility function?
+What is the consumer's indirect utility function? (2 points)
 \end_layout
 
 \begin_layout Enumerate
 Obtain the consumer's Marshallian demand curves.
- [Hint: Roy's identity] 
+ [Hint: Roy's identity] (2 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -363,7 +394,7 @@ Find
 \end_inset
 
 .
- What is its interpretation?
+ What is its interpretation? (2 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -372,7 +403,7 @@ Find
 \end_inset
 
 .
- What is its interpretation?
+ What is its interpretation? (2 points)
 \end_layout
 
 \end_deeper
@@ -383,7 +414,7 @@ Comparative Statics
 \begin_layout Enumerate
 If Katie purchases only second-hand clothing and spam (and she always spends
  all of her available income), can both of these goods be inferior? Why
- or why not?
+ or why not? (2 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -413,7 +444,8 @@ Further assume that
 \end_inset
 
 .
- Use the consumer's Marshallian demand functions to do the following:
+ Use the consumer's Marshallian demand functions to do the following: (12
+ points)
 \end_layout
 
 \begin_deeper
@@ -437,21 +469,21 @@ Graphically illustrate the consumer's income-offer curve for
 .
  No need to draw indifference curves; just draw the budget sets and the
  corresponding optimal choices.
- What is the shape of the income-offer curve? Why?
+ What is the shape of the income-offer curve? Why? (4 points)
 \end_layout
 
 \begin_layout Enumerate
 Graphically illustrate the consumer's Engel curve for good 2 for the same
  income levels as in part (a).
  What is the slope of the Engel curve? What does the sign of the slope tell
- us about 2?
+ us about 2? (3 points)
 \end_layout
 
 \begin_layout Enumerate
 Graphically illustrate the consumer's Engel curve for good 1 for the same
  income levels as in part (a).
  What is the slope of the Engel curve? What does the sign of the slope tell
- us about good 1?
+ us about good 1? (3 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -461,36 +493,38 @@ Suppose now you do not have the price for good 2 (other parameters the same).
 \end_inset
 
 ? Graph this demand curve.
- 
+ (2 points)
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
 Suppose that Jennifer likes to eat exactly 3 donuts with 2 cups of coffee.
- 
+ (10 points)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 Write down 2 different utility function that represent these preferences.
- (Hint: rescale)
+ (Hint: rescale) (2 points)
 \end_layout
 
 \begin_layout Enumerate
 Suppose Jennifer has $14 to spend.
  Graphically illustrate her optimal choices of donuts and coffee for the
- cases when donuts cost $.50 each and the price of coffee is $0.25, $1.
- $2.75 and $6.25 per cup.
+ cases when donuts cost $.50 each and the price of coffee is $0.25, $1.00,
+ $2.75, and $6.25 per cup.
+ (4 points)
 \end_layout
 
 \begin_layout Enumerate
 On the graph in part (b), graphically illustrate her price-offer curve.
- What is the shape of her price-offer curve? Why?
+ What is the shape of her price-offer curve? Why? (2 points)
 \end_layout
 
 \begin_layout Enumerate
 Draw Jennifer's demand for coffee as a function of its price, holding her
  income fixed at $14 and the price of donuts fixed at $.50 each.
+ (2 points)
 \end_layout
 
 \end_deeper
