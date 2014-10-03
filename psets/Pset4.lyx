@@ -109,6 +109,10 @@ A few of these questions are directly taken (or modified slightly) from
  problem sets from previous school year.
 \end_layout
 
+\begin_layout Standard
+There are a total of 54 points possible.
+\end_layout
+
 \begin_layout Part
 Demand; Slustky Equation
 \end_layout
@@ -117,53 +121,61 @@ Demand; Slustky Equation
 Suppose a consumer has preferences between two goods that are perfect substitute
 s.
  Can you change prices in such a way that the entire demand response is
- due to the income effect?
+ due to the income effect? (2 points)
 \end_layout
 
 \begin_layout Enumerate
 Suppose that the preferences are concave.
- Is it still the case that the substitution effect is negative?
+ Is it still the case that the substitution effect is negative? (2 points)
 \end_layout
 
 \begin_layout Enumerate
 True, False, or Uncertain? Explain whether you agree or disagree with the
  following statements.
  Be brief (5 lines or less) and be very clear.
+ (8 points)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 If a good is a normal good, the demand function must have a negative slope.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
 If the demand function has a negative slope, then the good is a normal good.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
 If a good is inferior, then the demand function must have a positive slope.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
 If the demand function has a positive slope, then the good is inferior.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
 If a good is a normal good, then the consumer spends an increasing fraction
  of total income on it as income increases.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
 If two goods are perfect complements, the substitution effect is zero.
- 
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
 If two goods are perfect substitutes, then the substitution effect is zero.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
 If two goods are perfect complements, then the income effect is positive.
+ (1 point)
 \end_layout
 
 \end_deeper
@@ -187,6 +199,7 @@ where
 \end_inset
 
  denotes consumption of ice-cream.
+ (7 points)
 \end_layout
 
 \begin_deeper
@@ -203,11 +216,11 @@ If Alex's income is
 \begin_inset Formula $p_{C}$
 \end_inset
 
-, what are the demand functions for ice-cream and cookies?
+, what are the demand functions for ice-cream and cookies? (2 points)
 \end_layout
 
 \begin_layout Enumerate
-Draw the demand functions for ice cream, when 1, 
+Draw the demand functions for ice cream, when (1) 
 \begin_inset Formula $p_{C}=3$
 \end_inset
 
@@ -215,7 +228,7 @@ Draw the demand functions for ice cream, when 1,
 \begin_inset Formula $m=10$
 \end_inset
 
-; 2, 
+; (2) 
 \begin_inset Formula $p_{C}=4$
 \end_inset
 
@@ -223,7 +236,7 @@ Draw the demand functions for ice cream, when 1,
 \begin_inset Formula $m=10$
 \end_inset
 
-; 3, 
+; (3) 
 \begin_inset Formula $p_{C}=3$
 \end_inset
 
@@ -232,6 +245,7 @@ Draw the demand functions for ice cream, when 1,
 \end_inset
 
 .
+ (3 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -244,6 +258,7 @@ Comment on the effect that changes in
 \end_inset
 
  fixed.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -256,6 +271,7 @@ Comment on the effect that changes in
 \end_inset
 
  fixed.
+ (1 point)
 \end_layout
 
 \end_deeper
@@ -272,31 +288,35 @@ U(b,c) & = & bc
 The price of a beer bottle equals 2 dollars per bottle and the price of
  cigarettes equals 10 dollars per pack.
  Suppose the consumer's income equals 100 dollars.
+ (5 points)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 Write down the consumer's optimal consumption problem.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
 How many packs of cigarettes does the consumer buy? How many bottles of
- beer?
+ beer? (3 points)
 \end_layout
 
 \begin_layout Enumerate
-Plot your solution and draw the budget line in black ink and label the optimal
- bundle with the letter 
+Plot your solution, draw the budget line, and label the optimal bundle with
+ the letter 
 \begin_inset Formula $O$
 \end_inset
 
 .
+ (1 point)
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
 Continue with problem 5, suppose now that the price of beer decreases to
  1 dollar per bottle.
+ (16 points)
 \end_layout
 
 \begin_deeper
@@ -304,47 +324,48 @@ Continue with problem 5, suppose now that the price of beer decreases to
 Suppose that the consumer is compensated for the decrease in the price of
  beer with sufficient money so that he can still barely afford the consumption
  bundle he purchased before the price of beer bottles decreased.
- What would his new income level be?
+ What would his new income level be? (1 point)
 \end_layout
 
 \begin_layout Enumerate
 How many beer bottles and cigarette packs does the consumer purchase at
- the lower price of beer and his new income?
+ the lower price of beer and his new income? (3 points)
 \end_layout
 
 \begin_layout Enumerate
-Using red ink, draw the new budget line and label the new optimal point,
- Points 
+Draw a dotted line that represents the new budget line and label the new
+ optimal point, Points 
 \begin_inset Formula $C_{S}$
 \end_inset
 
 .
- 
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
 Does the substitution effect of the decrease in the price of beer lead the
  consumer to purchase more or fewer beer bottles? How about packs of cigarettes?
- How many more or less of each?
+ How many more or less of each? (2 points)
 \end_layout
 
 \begin_layout Enumerate
 How many beer bottles and packs of cigarettes does the consumer purchase
- at the new prices and his original income?
+ at the new prices and his original income? (3 points)
 \end_layout
 
 \begin_layout Enumerate
-Draw this new budget line in blue ink and label the new optimal consumption
- bundle, point 
+Draw this new budget line in and label the new optimal consumption bundle,
+ point 
 \begin_inset Formula $F$
 \end_inset
 
 .
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
-Draw lines that are perpendicular to the y-axis (where y-axis represents
- consumption of beer) and pass through points 
+Draw lines that are perpendicular to the axis with beer on it that pass
+ through points 
 \begin_inset Formula $O$
 \end_inset
 
@@ -360,12 +381,13 @@ Draw lines that are perpendicular to the y-axis (where y-axis represents
  Label the income effect, the substitution effect, and the total effect
  of the price change on demand for beer bottles.
  What is the magnitude of the substitution effect? What is the magnitude
- of the income effect?
+ of the income effect? (4 points)
 \end_layout
 
 \begin_layout Enumerate
 Explain the economic importance of decomposing a price change into an income
  and a substitution effect.
+ (1 point)
 \end_layout
 
 \end_deeper
@@ -375,24 +397,24 @@ Welfare and elasticities
 
 \begin_layout Enumerate
 Consider the inverse demand function: 
-\begin_inset Formula $p_{1}=(\frac{x_{1}}{\alpha})^{\frac{1}{\beta}}$
+\begin_inset Formula $p=(\frac{x}{\alpha})^{\frac{1}{\beta}}$
 \end_inset
 
 .
  Calculate the own-price elasticity of demand.
  Express your answer as a function of the parameters only.
  How does your answer depend on the value of 
-\begin_inset Formula $x_{1}$
+\begin_inset Formula $x$
 \end_inset
 
-?
+? (4 points)
 \end_layout
 
 \begin_layout Enumerate
-Consider the demand function:
+Consider the demand function: (7 points)
 \begin_inset Formula 
 \begin{eqnarray*}
-x_{1} & = & 400-\frac{1}{2}p_{1}
+x & = & 400-\frac{1}{2}p
 \end{eqnarray*}
 
 \end_inset
@@ -403,23 +425,26 @@ x_{1} & = & 400-\frac{1}{2}p_{1}
 \begin_deeper
 \begin_layout Enumerate
 Calculate the own-price elasticity of demand when 
-\begin_inset Formula $x_{1}=100$
+\begin_inset Formula $x=100$
 \end_inset
 
-
+.
+ (2 points)
 \end_layout
 
 \begin_layout Enumerate
 Calculate the own-price elasticity of demand when 
-\begin_inset Formula $x_{1}=390$
+\begin_inset Formula $x=390$
 \end_inset
 
 .
+ (2 points)
 \end_layout
 
 \begin_layout Enumerate
 Compare the two numbers you found in parts a and b.
  Interpret the magnitudes that you found.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -427,22 +452,27 @@ At what point is
 \begin_inset Formula $|\epsilon|=1$
 \end_inset
 
-?
+? (2 points) 
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
 Calculate the change in consumer surplus for a consumer whose marginal willingne
 ss-to-pay is given by 
-\begin_inset Formula $p_{1}=10-4x_{1}$
+\begin_inset Formula $p=10-4x$
 \end_inset
 
-, when the price of good 1 decreases from 
-\begin_inset Formula $p_{1}=4$
+, when the price of a good decreases from 
+\begin_inset Formula $p=4$
 \end_inset
 
- to 2.
+ to 
+\begin_inset Formula $2$
+\end_inset
+
+.
  Sketch a graph to illustrate the gain in consumer surplus described above.
+ (3 points)
 \end_layout
 
 \end_body
