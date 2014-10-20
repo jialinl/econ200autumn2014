@@ -1,0 +1,715 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman ae
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+
+\series bold
+\size larger
+Assignment 6
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+\size large
+Econ 200
+\end_layout
+
+\begin_layout Date
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+NOTES: 
+\end_layout
+
+\begin_layout Standard
+Each sub question is self-contained, which means, for example, assumptions
+ from part (b) does not carry to part (c).
+\end_layout
+
+\begin_layout Standard
+A few of these questions are directly taken (or modified slightly) from
+ Varian's and Lima's books, as well as Sarah Komisarow's and Grace Tsiang's
+ problem sets from previous school year.
+\end_layout
+
+\begin_layout Part
+Intertemporal Choice
+\end_layout
+
+\begin_layout Enumerate
+Suppose in a two period world, the consumer's wealth in period 1 is greater
+ than his/her wealth in period 2.
+ Does that imply saving from 1 to 2 is zero? (Translate to math, suppose
+ 
+\begin_inset Formula $w_{t}>w_{t+1}$
+\end_inset
+
+, does it mean 
+\begin_inset Formula $s_{t}=0$
+\end_inset
+
+?) And does 
+\begin_inset Formula $s_{t}=0$
+\end_inset
+
+, imply that 
+\begin_inset Formula $w_{t}>w_{t+1}$
+\end_inset
+
+? Explain clearly with reference to a diagram.
+\end_layout
+
+\begin_layout Enumerate
+Suppose that you are offered a job contract that specifies that you will
+ work for 5 years and that you will receive payment upon completion of the
+ job (Contract A).
+ The firm allows you to negotiate the compensation mechanism, but not the
+ length of the contract.
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="6">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Year
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Contract A
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+250,000
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Contract B
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+50,000
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+50,000
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+50,000
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+50,000
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+50,000
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Contract C
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+x
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+x
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+If the nominal interest rate is 10% do yo prefer Contract A or Cntract B?
+ What does your answer assume about inflation?
+\end_layout
+
+\begin_layout Enumerate
+What if the inflation rate is 4%?
+\end_layout
+
+\begin_layout Enumerate
+If the nominal interest rate is 10% and zero inflation, compute the constant
+ value of x, that makes you indifferent between Contract A and Contract
+ C.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Consider a two-period model in which the individual's utility from consuming
+ an amount 
+\begin_inset Formula $c_{t}$
+\end_inset
+
+ in period 1 and 
+\begin_inset Formula $c_{t+1}$
+\end_inset
+
+ in period 2 is given by:
+\begin_inset Formula 
+\begin{eqnarray*}
+U(c_{t},c_{t+1}) & = & \log(c_{t})+\beta\log(c_{t+1})
+\end{eqnarray*}
+
+\end_inset
+
+Suppose that the individual's income stream is constant over time and is
+ given by 
+\begin_inset Formula $w_{t}=w_{t+1}=100$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Assume that 
+\begin_inset Formula $\beta=\frac{2}{3}$
+\end_inset
+
+.
+ If the individual can borrow and lend freely at an interest rate of 
+\begin_inset Formula $r=5\%$
+\end_inset
+
+, what is his optimal consumption in each period? Does he borrow or lend
+ in the first period?
+\end_layout
+
+\begin_layout Enumerate
+Continue to assume that 
+\begin_inset Formula $\beta=\frac{2}{3}$
+\end_inset
+
+.
+ At what interest rate will the individual choose simply to consume his
+ endowment in each period?
+\end_layout
+
+\begin_layout Enumerate
+Draw the budget constraint if the individual's savings earn only a 5% return,
+ but he must pay a 20% interest rate to borrow.
+\end_layout
+
+\begin_layout Enumerate
+For which values of 
+\begin_inset Formula $\beta$
+\end_inset
+
+ will the individual save?
+\end_layout
+
+\begin_layout Enumerate
+For which values of 
+\begin_inset Formula $\beta$
+\end_inset
+
+ will he choose to borrow?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Suppose that an individual lives for two periods and has access to a perfect
+ credit market where the real gross interest rate is given by (1+r).
+ Let his utility function be given by:
+\begin_inset Formula 
+\begin{eqnarray*}
+u(c_{t},c_{t+1}) & = & \log(c_{t})+\beta\log(c_{t+1})
+\end{eqnarray*}
+
+\end_inset
+
+where 
+\begin_inset Formula $\beta\in(0,1)$
+\end_inset
+
+.
+ Suppose that Jack's income equals 
+\begin_inset Formula $w_{t}$
+\end_inset
+
+ in period 
+\begin_inset Formula $t$
+\end_inset
+
+ and 
+\begin_inset Formula $w_{t+1}$
+\end_inset
+
+ in period 
+\begin_inset Formula $t+1$
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Solve for 
+\begin_inset Formula $c_{t}^{\star}$
+\end_inset
+
+, 
+\begin_inset Formula $c_{t+1}^{\star}$
+\end_inset
+
+, and 
+\begin_inset Formula $s_{t}^{\star}$
+\end_inset
+
+as functions of 
+\begin_inset Formula $w_{t}$
+\end_inset
+
+, 
+\begin_inset Formula $w_{t+1}$
+\end_inset
+
+, 
+\begin_inset Formula $(1+r)$
+\end_inset
+
+, and 
+\begin_inset Formula $\beta$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+What is the rate of growth of the individual's consumption? We define consumptio
+n growth, 
+\begin_inset Formula $c_{g}$
+\end_inset
+
+, as 
+\begin_inset Formula $1+\gamma_{g}=\frac{c_{t+1}}{c_{t}}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+How does consumption growth relate to 
+\begin_inset Formula $\beta$
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Enumerate
+What value of 
+\begin_inset Formula $\beta$
+\end_inset
+
+ makes consumption growth is equal to 0? Explain the intuition.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+The Permanent Income Hypothesis: A Simple Example from Dynamic Macroeconomics:
+ Suppose that a representative consumer's utility function is given by the
+ following CES function 
+\begin_inset Formula 
+\begin{eqnarray*}
+\frac{c_{t}^{1-\sigma}}{1-\sigma} & + & \beta\frac{c_{t+1}^{1-\sigma}}{1-\sigma}
+\end{eqnarray*}
+
+\end_inset
+
+where 
+\begin_inset Formula $\beta\in(0,1)$
+\end_inset
+
+.
+ Suppose that the consumer can borrow and lend freely at a real interest
+ rate equal to 
+\begin_inset Formula $(1+r)$
+\end_inset
+
+.
+ Let 
+\begin_inset Formula $w_{t}$
+\end_inset
+
+ and 
+\begin_inset Formula $w_{t+1}$
+\end_inset
+
+denote the representative consumer's income in each of the two periods.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Set up the representative consumer's utility maximization problem.
+\end_layout
+
+\begin_layout Enumerate
+Solve the consumer's optimization problem.
+ What is true about consumption in periods 1 and 2?
+\end_layout
+
+\begin_layout Enumerate
+Suppose now, 
+\begin_inset Formula $w_{t+1}=(1+g)w_{t}>w_{t}$
+\end_inset
+
+, where 
+\begin_inset Formula $g$
+\end_inset
+
+ denotes the growth rate of the country's output.
+ Repeat (a) and (b).
+ How does consumption relate to output growth 
+\begin_inset Formula $g$
+\end_inset
+
+? How does consumption respond to an increase in the growth of output? What
+ happens to savings?
+\end_layout
+
+\end_deeper
+\begin_layout Part
+Expected Utility
+\end_layout
+
+\begin_layout Enumerate
+Suppose you have $100 wealth entering to a lottery (no fee for participating
+ in this lottery).
+ With probability 
+\begin_inset Formula $\frac{1}{3}$
+\end_inset
+
+ you lose all your wealth, with probability 
+\begin_inset Formula $\frac{2}{3}$
+\end_inset
+
+ you triple your wealth.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+What is your expected income?
+\end_layout
+
+\begin_layout Enumerate
+Suppose your utility function is 
+\begin_inset Formula $u(I)=\ln(I)$
+\end_inset
+
+, what is your expected utility?
+\end_layout
+
+\begin_layout Enumerate
+Given the utility function in (b), what is your Certainty Equivalent? What
+ is your risk premium?
+\end_layout
+
+\begin_layout Enumerate
+Given the utility function in (b), are you risk averse? 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Suppose that the individual is risk neutral and that his state utility function
+ is given by:
+\begin_inset Formula 
+\begin{eqnarray*}
+u(I) & = & aI+b
+\end{eqnarray*}
+
+\end_inset
+
+show that 
+\begin_inset Formula $U(I)=U(E[I])$
+\end_inset
+
+.
+ That is, show that the individual is indifferent between the certain income
+ stream 
+\begin_inset Formula $I$
+\end_inset
+
+, and the contingent income stream 
+\begin_inset Formula $(I_{b},I_{g})$
+\end_inset
+
+ as long as the expectation of the contingent income stream, 
+\begin_inset Formula $E[I]$
+\end_inset
+
+, is equal to 
+\begin_inset Formula $I$
+\end_inset
+
+.
+ So the individual only cares about expected income.
+\end_layout
+
+\end_body
+\end_document
