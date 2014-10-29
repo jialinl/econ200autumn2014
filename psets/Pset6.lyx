@@ -109,6 +109,10 @@ A few of these questions are directly taken (or modified slightly) from
  problem sets from previous school year.
 \end_layout
 
+\begin_layout Standard
+A total of 36 points are possible.
+\end_layout
+
 \begin_layout Part
 Intertemporal Choice
 \end_layout
@@ -134,6 +138,7 @@ Suppose in a two period world, the consumer's wealth in period 1 is greater
 \end_inset
 
 ? Explain clearly with reference to a diagram.
+ (2 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -142,6 +147,7 @@ Suppose that you are offered a job contract that specifies that you will
  job (Contract A).
  The firm allows you to negotiate the compensation mechanism, but not the
  length of the contract.
+ (5 points)
 \begin_inset Tabular
 <lyxtabular version="3" rows="4" columns="6">
 <features rotate="0" tabularvalignment="middle">
@@ -385,17 +391,18 @@ x
 \begin_deeper
 \begin_layout Enumerate
 If the nominal interest rate is 10% do you prefer Contract A or Contract
- B? What does your answer assume about inflation?
+ B? What does your answer assume about inflation? (2 points)
 \end_layout
 
 \begin_layout Enumerate
-What if the inflation rate is 4%?
+What if the inflation rate is 4%? (1 point)
 \end_layout
 
 \begin_layout Enumerate
 If the nominal interest rate is 10% and zero inflation, compute the constant
  value of x, that makes you indifferent between Contract A and Contract
  C.
+ (2 points)
 \end_layout
 
 \end_deeper
@@ -423,7 +430,7 @@ Suppose that the individual's income stream is constant over time and is
 \end_inset
 
 .
- 
+ (10 points)
 \end_layout
 
 \begin_deeper
@@ -438,7 +445,7 @@ Assume that
 \end_inset
 
 , what is his optimal consumption in each period? Does he borrow or lend
- in the first period?
+ in the first period? (4 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -448,12 +455,13 @@ Continue to assume that
 
 .
  At what interest rate will the individual choose simply to consume his
- endowment in each period?
+ endowment in each period? (2 points)
 \end_layout
 
 \begin_layout Enumerate
 Draw the budget constraint if the individual's savings earn only a 5% return,
  but he must pay a 20% interest rate to borrow.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -461,7 +469,7 @@ For which values of
 \begin_inset Formula $\beta$
 \end_inset
 
- will the individual save?
+ will the individual save? (2 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -469,7 +477,7 @@ For which values of
 \begin_inset Formula $\beta$
 \end_inset
 
- will he choose to borrow?
+ will he choose to borrow? (1 point)
 \end_layout
 
 \end_deeper
@@ -506,6 +514,7 @@ where
 \end_inset
 
 .
+ (6 points)
 \end_layout
 
 \begin_deeper
@@ -539,6 +548,7 @@ as functions of
 \end_inset
 
 .
+ (3 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -552,6 +562,7 @@ n growth,
 \end_inset
 
 .
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -559,7 +570,7 @@ How does consumption growth relate to
 \begin_inset Formula $\beta$
 \end_inset
 
-?
+? (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -568,6 +579,7 @@ What value of
 \end_inset
 
  makes consumption growth is equal to 0? Explain the intuition.
+ (2 points)
 \end_layout
 
 \end_deeper
@@ -602,16 +614,27 @@ where
 \end_inset
 
 denote the representative consumer's income in each of the two periods.
+ (6 points)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 Set up the representative consumer's utility maximization problem.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
 Solve the consumer's optimization problem.
- What is true about consumption in periods 1 and 2?
+ What is true about consumption in periods 1 and 2? [hint: you don't need
+ to derive 
+\begin_inset Formula $c_{t}^{\star}$
+\end_inset
+
+, 
+\begin_inset Formula $c_{t+1}^{\star}$
+\end_inset
+
+ to relate them] (2 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -630,7 +653,7 @@ Suppose now,
 \end_inset
 
 ? How does consumption respond to an increase in the growth of output? What
- happens to savings?
+ happens to savings? (3 points)
 \end_layout
 
 \end_deeper
@@ -650,11 +673,12 @@ Suppose you have $100 wealth entering to a lottery (no fee for participating
 \end_inset
 
  you triple your wealth.
+ (5 points)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-What is your expected income?
+What is your expected income? (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -662,16 +686,16 @@ Suppose your utility function is
 \begin_inset Formula $u(I)=\ln(I)$
 \end_inset
 
-, what is your expected utility?
+, what is your expected utility? (1 point)
 \end_layout
 
 \begin_layout Enumerate
 Given the utility function in (b), what is your Certainty Equivalent? What
- is your risk premium?
+ is your risk premium? (2 points)
 \end_layout
 
 \begin_layout Enumerate
-Given the utility function in (b), are you risk averse? 
+Given the utility function in (b), are you risk averse? (1 point)
 \end_layout
 
 \end_deeper
@@ -709,6 +733,7 @@ show that
 
 .
  So the individual only cares about expected income.
+ (2 points)
 \end_layout
 
 \end_body
