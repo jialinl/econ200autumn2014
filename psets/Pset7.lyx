@@ -1,0 +1,711 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman ae
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+
+\series bold
+\size larger
+Assignment 7
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+\size large
+Econ 200
+\end_layout
+
+\begin_layout Date
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+NOTES: 
+\end_layout
+
+\begin_layout Standard
+Each sub question is self-contained, which means, for example, assumptions
+ from part (b) does not carry to part (c).
+\end_layout
+
+\begin_layout Standard
+A few of these questions are directly taken (or modified slightly) from
+ Varian's and Lima's books, as well as Sarah Komisarow's and Grace Tsiang's
+ problem sets from previous school year.
+\end_layout
+
+\begin_layout Part
+Uncertainty and Insurance
+\end_layout
+
+\begin_layout Enumerate
+Consider the following principal-agent problem.
+ The owner of a firm (the principal) employs a worker (the agent).
+ The worker can exert low effort, 
+\begin_inset Formula $e=0$
+\end_inset
+
+, or high effort, 
+\begin_inset Formula $e=1$
+\end_inset
+
+.
+ The resulting revenue, 
+\begin_inset Formula $r$
+\end_inset
+
+, to the owner is random, but is more likely to be high when the worker
+ exerts high effort.
+ Specifically, if the worker exerts low effort, 
+\begin_inset Formula $e=0$
+\end_inset
+
+, then 
+\begin_inset Formula $r=\begin{cases}
+0, & with\: probability\:2/3\\
+4, & with\: probability\:1/3
+\end{cases}$
+\end_inset
+
+.
+ If instead the worker exerts high effort, 
+\begin_inset Formula $e=1$
+\end_inset
+
+, then 
+\begin_inset Formula $r=\begin{cases}
+0, & with\: probability\:1/3\\
+4, & with\, probability\:2/3
+\end{cases}$
+\end_inset
+
+.
+ The worker's von Neumann-Morgenstern utility from wage 
+\begin_inset Formula $w$
+\end_inset
+
+ and effort 
+\begin_inset Formula $e$
+\end_inset
+
+ is 
+\begin_inset Formula $u(w,e)=\sqrt{w}-e$
+\end_inset
+
+.
+ The firm's profits are 
+\begin_inset Formula $\pi=r-w$
+\end_inset
+
+ when revenues are 
+\begin_inset Formula $r$
+\end_inset
+
+ and the worker's wage is 
+\begin_inset Formula $w$
+\end_inset
+
+.
+ A wage contract 
+\begin_inset Formula $(w_{0},w_{4})$
+\end_inset
+
+ specifies the wage, 
+\begin_inset Formula $w_{r}\geq0$
+\end_inset
+
+, that the worker will receive if revenues are 
+\begin_inset Formula $r\in\{0,4\}$
+\end_inset
+
+.
+ When working, the worker chooses effort to maximize expected utility and
+ always has the option (his only other option) of quitting his job and obtaining
+ 
+\begin_inset Formula $(w,e)=(0,0)$
+\end_inset
+
+.
+ find the wage contract 
+\begin_inset Formula $(w_{0},w_{4})$
+\end_inset
+
+ that maximizes the firm's expected profits in each of the situations below.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The owner can observe the worker's effort and so the contract can also be
+ conditioned on the effort level of the worker.
+ How much effort does the worker exert in the expected profit maximizing
+ contract?
+\end_layout
+
+\begin_layout Enumerate
+The owner cannot observe the worker's effort and so the contract cannot
+ be conditioned on effort.
+ How much effort does the worker exert in the expected profit-maximizing
+ contract now?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Consider the following utility function
+\begin_inset Formula 
+\begin{eqnarray*}
+U(c) & = & -e^{-\gamma c}
+\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Show that this utility function displays constant absolute risk aversion.
+\end_layout
+
+\begin_layout Enumerate
+Consider a lottery 
+\begin_inset Formula $L=[L_{1},L_{2},1-\pi,\pi]$
+\end_inset
+
+.
+ Write down the equation that will allow us to calculate the certainty equivalen
+t.
+\end_layout
+
+\begin_layout Enumerate
+Show that the certainty equivalent in (b) + 
+\begin_inset Formula $T$
+\end_inset
+
+ is the certainty equivalent for lottery 
+\begin_inset Formula $L=[L_{1}+T,L_{2}+T,1-\pi,\pi]$
+\end_inset
+
+.
+ In other words, show that adding a fixed amount of income, 
+\begin_inset Formula $T$
+\end_inset
+
+ dollars, to all prizes increases the certainty equivalent by 
+\begin_inset Formula $T$
+\end_inset
+
+ dollars.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Suppose that Andrew faces an uncertain loss of income.
+ Income in the good state is equal to 
+\begin_inset Formula $w_{g}$
+\end_inset
+
+, whereas income in the bad state is equal to 
+\begin_inset Formula $w_{b}$
+\end_inset
+
+.
+ Suppose that there is an insurance market where the insurance premium is
+ equal to 
+\begin_inset Formula $\gamma$
+\end_inset
+
+.
+ Preferences over consumption in the two states are given by:
+\begin_inset Formula 
+\begin{eqnarray*}
+U(c_{b},c_{g}) & = & \pi_{b}\log(c_{b})+\pi_{g}a\log(c_{g})
+\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+What is Andrew's consumption in the good state if he purchases 
+\begin_inset Formula $k$
+\end_inset
+
+ units of insurance?
+\end_layout
+
+\begin_layout Enumerate
+What is Andrew's consumption in the bad state if he purchases 
+\begin_inset Formula $k$
+\end_inset
+
+ units of insurance?
+\end_layout
+
+\begin_layout Enumerate
+Suppose that insurance is available at an actuarially fair rate.
+ What is the value of 
+\begin_inset Formula $\gamma$
+\end_inset
+
+?
+\end_layout
+
+\begin_layout Enumerate
+If insurance is available at an actuarially fair rate, find 
+\begin_inset Formula $c_{g}$
+\end_inset
+
+ and 
+\begin_inset Formula $c_{b}$
+\end_inset
+
+ as functions of 
+\begin_inset Formula $a$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+For what values of 
+\begin_inset Formula $a$
+\end_inset
+
+ does Andrew buy complete insurance coverage?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Suppose that there is a individual who lives up to two periods.
+ That is, the individual lives for certain during period 1.
+ In that period his utility function is given by:
+\begin_inset Formula 
+\begin{eqnarray*}
+u(c_{1}) & = & \ln c_{1}
+\end{eqnarray*}
+
+\end_inset
+
+The individual is alive in period 2 with probability 
+\begin_inset Formula $p$
+\end_inset
+
+.
+ If he is alive, his utility function is given by:
+\begin_inset Formula 
+\begin{eqnarray*}
+u(c_{2}) & = & \ln c_{2}
+\end{eqnarray*}
+
+\end_inset
+
+If he dies, he receives the fixed utility level 
+\begin_inset Formula $B$
+\end_inset
+
+.
+ Suppose that the individual has access to a perfect capital market and
+ suppose that he discounts the future at a rate of 
+\begin_inset Formula $\beta$
+\end_inset
+
+.
+ Suppose that his endowment is given by 
+\begin_inset Formula $(w_{1},w_{2})$
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Set up the individual's utility maximization problem.
+ Make sure that you explain how the probability of death affects the problem.
+ 
+\end_layout
+
+\begin_layout Enumerate
+How much does the individual save or borrow?
+\end_layout
+
+\begin_layout Enumerate
+How do his savings or loans depend on the probability of death?
+\end_layout
+
+\end_deeper
+\begin_layout Part
+General Equilibrium of an Endowment Economy
+\end_layout
+
+\begin_layout Enumerate
+Consider a two good, two individual endowment economy.
+ Suppose that individual 
+\begin_inset Formula $i$
+\end_inset
+
+'s endowment is given by:
+\begin_inset Formula 
+\begin{eqnarray*}
+w^{i} & = & (w_{x}^{i},w_{y}^{i})
+\end{eqnarray*}
+
+\end_inset
+
+and individual 
+\begin_inset Formula $2$
+\end_inset
+
+'s endowment is given by:
+\begin_inset Formula 
+\begin{eqnarray*}
+w^{j} & = & (w_{x}^{j},w_{y}^{j})
+\end{eqnarray*}
+
+\end_inset
+
+where we assume that 
+\begin_inset Formula $w_{x}^{i}>w_{x}^{j}$
+\end_inset
+
+ and 
+\begin_inset Formula $w_{y}^{j}>w_{y}^{i}$
+\end_inset
+
+.
+ Also assume individual 1's preferences are given by:
+\begin_inset Formula 
+\begin{eqnarray*}
+U(x,y) & = & \alpha\log(x)+(1-\alpha)\log(y)
+\end{eqnarray*}
+
+\end_inset
+
+ and individual 2's preferences are given by:
+\begin_inset Formula 
+\begin{eqnarray*}
+U(x,y) & = & \gamma\log(x)+(1-\gamma)\log(y)
+\end{eqnarray*}
+
+\end_inset
+
+Finally, let the absolute prices of good 
+\begin_inset Formula $x$
+\end_inset
+
+ and good 
+\begin_inset Formula $y$
+\end_inset
+
+ be given by 
+\begin_inset Formula $p_{x}$
+\end_inset
+
+ and 
+\begin_inset Formula $p_{y}$
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Define the competitive equilibrium of the endowment economy.
+\end_layout
+
+\begin_layout Enumerate
+Write down each individual's maximization problem.
+\end_layout
+
+\begin_layout Enumerate
+Solve each individual's maximization problem.
+ You should obtain 
+\begin_inset Formula $x_{i}^{\star}$
+\end_inset
+
+,
+\begin_inset Formula $y_{i}^{\star}$
+\end_inset
+
+, and 
+\begin_inset Formula $\eta_{i}^{\star}$
+\end_inset
+
+ for 
+\begin_inset Formula $i=1,2$
+\end_inset
+
+ where 
+\begin_inset Formula $\eta_{i}^{\star}$
+\end_inset
+
+ denotes the Lagrange multiplier on individual 
+\begin_inset Formula $i$
+\end_inset
+
+'s budget constraint.
+\end_layout
+
+\begin_layout Enumerate
+Find 
+\begin_inset Formula $X^{\star}$
+\end_inset
+
+and 
+\begin_inset Formula $Y^{\star}$
+\end_inset
+
+, the aggregate demands for the two goods.
+\end_layout
+
+\begin_layout Enumerate
+What are the equilibrium conditions for this economy?
+\end_layout
+
+\begin_layout Enumerate
+Find the market clearing relative price for the 
+\begin_inset Formula $x$
+\end_inset
+
+ -- market.
+\end_layout
+
+\begin_layout Enumerate
+Now use the market clearing condition in the 
+\begin_inset Formula $y$
+\end_inset
+
+ -- market to find the equilibrium price.
+ How much of good 
+\begin_inset Formula $y$
+\end_inset
+
+ does each individual consume?
+\end_layout
+
+\begin_layout Enumerate
+Graph the solution.
+ Label your graphs clearly.
+\end_layout
+
+\begin_layout Enumerate
+Who trades what with whom?
+\end_layout
+
+\begin_layout Enumerate
+Show that each individual's allocation satisfies the budget constraint with
+ equality.
+ That is, show that the individuals spend their entire income for any arbitrary
+ price (Hint: use the demand functions, not the equilibrium quantities).
+\end_layout
+
+\begin_layout Enumerate
+Find the market clearing relative price of the market for 
+\begin_inset Formula $x$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+Show that at the relative price you found in part k the y--market must clear.
+ This is Walras' law.
+\end_layout
+
+\begin_layout Enumerate
+Can you determine each individual's consumption of good y?
+\end_layout
+
+\begin_layout Enumerate
+Find the equilibrium relative price of 
+\begin_inset Formula $x$
+\end_inset
+
+ in the endowment economy.
+ Find the equilibrium relative price of 
+\begin_inset Formula $y$
+\end_inset
+
+ in the endowment economy.
+ What is the relationship between them?
+\end_layout
+
+\begin_layout Enumerate
+What is the effect of increasing 
+\begin_inset Formula $\alpha$
+\end_inset
+
+ on the MRS of individual 1? What is the effect of increasing 
+\begin_inset Formula $\gamma$
+\end_inset
+
+ on the MRS of individual 2?
+\end_layout
+
+\begin_layout Enumerate
+Plot the relative price as a function of 
+\begin_inset Formula $\alpha$
+\end_inset
+
+ and 
+\begin_inset Formula $\beta$
+\end_inset
+
+.
+ What happens to the relative price as 
+\begin_inset Formula $\alpha$
+\end_inset
+
+ increases? As 
+\begin_inset Formula $\gamma$
+\end_inset
+
+ increases? What is the economic intuition behind this result?
+\end_layout
+
+\begin_layout Enumerate
+Plot the market clearing price of the market for good 
+\begin_inset Formula $x$
+\end_inset
+
+ as a function of 
+\begin_inset Formula $w_{x}^{i}$
+\end_inset
+
+.
+ What happens to the equilibrium price as 
+\begin_inset Formula $w_{x}^{i}$
+\end_inset
+
+ increases?
+\end_layout
+
+\begin_layout Enumerate
+Plot the market clearing price of good 
+\begin_inset Formula $x$
+\end_inset
+
+ as a function of 
+\begin_inset Formula $w_{y}^{i}$
+\end_inset
+
+.
+ What happens to the equilibrium price as 
+\begin_inset Formula $w_{y}^{i}$
+\end_inset
+
+ increases? What happens to the market clearing price for good 
+\begin_inset Formula $y$
+\end_inset
+
+? Can you explain the economic intuition?
+\end_layout
+
+\begin_layout Enumerate
+Draw the Edgeworth box for the economy.
+ What are the dimensions of the box? Label the initial endowment Point E.
+ Draw the indifference curves through point E.
+ What level of utility does each individual obtain? Mark the set of possible
+ trades that individual 1 would object as 
+\begin_inset Formula $O_{i}$
+\end_inset
+
+.
+ Mark the set of possible trades that individual 2 would object as 
+\begin_inset Formula $O_{j}$
+\end_inset
+
+.
+ Mark the set of allocations to which the individual would voluntary trade
+ as 
+\begin_inset Formula $C$
+\end_inset
+
+.
+ Label the equilibrium consumption allocation point 
+\begin_inset Formula $F$
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\end_body
+\end_document
