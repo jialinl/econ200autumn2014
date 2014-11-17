@@ -1,0 +1,509 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\usepackage{setspace}
+\usepackage[bottom]{footmisc}
+\usepackage{amsfonts}
+\usepackage{pdflscape}
+\usepackage{amsmath}
+\usepackage{datetime}
+
+\DeclareMathOperator{\sgn}{sgn}
+\DeclareMathOperator{\Var}{Var}
+\DeclareMathOperator{\Corr}{Corr}
+\DeclareMathOperator{\Cov}{Cov}
+\DeclareMathOperator{\E}{E}
+\DeclareMathOperator{\logit}{logit}
+\DeclareMathOperator{\I}{I}
+
+\DeclareMathOperator*{\argmax}{arg\,max} 
+\end_preamble
+\use_default_options true
+\begin_modules
+theorems-ams
+hanging
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman ae
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+
+\series bold
+\size larger
+Practice Final
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+\size large
+Econ 200
+\end_layout
+
+\begin_layout Date
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+NOTES: [] comments and section 6 will not be on the real final.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size large
+Name: 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\size large
+Student ID: 
+\end_layout
+
+\begin_layout Standard
+You have 120 minutes to complete the exam.
+ You may use pencil/pen/eraser (no other materials allowed).
+ Please write clearly and neatly, as your score depends on how easily we
+ can understand your work and answers.
+ There are 5 parts.
+ If anything is unclear you may ask the Instructor or TA.
+ Good luck!
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+True, False, Uncertain
+\end_layout
+
+\begin_layout Standard
+For each part write a 2-4 sentences, draw a clearly labeled graph, or illustrate
+ your answer using short mathematical calculations.
+ Your score is based on the quality of your explanation.
+ Zero will be given to answers with no explanation.
+\end_layout
+
+\begin_layout Enumerate
+In an endowment economy, a consumer who is endowed with certain amount of
+ good x and y will not be made worse off with a price decrease in x.
+ [review endowment economy]
+\end_layout
+
+\begin_layout Enumerate
+All competitive equilibrium allocations are pareto optimal, even with public
+ goods.
+ [review First Welfare Theorem and Second Welfare Theorem]
+\end_layout
+
+\begin_layout Enumerate
+Under asymmetric information, insurers will always sell full insurance coverage.
+ [review moral hazard and adverse selection]
+\end_layout
+
+\begin_layout Enumerate
+Jenny is an organic farmer who produces and consumes kale and radishes.
+ She sells these in the local farmer’s market and also consumes them herself.
+ Suppose further that both goods are normal.
+ If the price of kale falls, then Jenny’s consumption of kale must decrease.
+ [review topics in first half of the quarter]
+\end_layout
+
+\begin_layout Part
+Endowment Economy
+\end_layout
+
+\begin_layout Enumerate
+Consider the Cobb-Douglas utility function:
+\begin_inset Formula 
+\begin{eqnarray*}
+U(x,y) & = & x^{\frac{1}{2}}y^{\frac{1}{2}}
+\end{eqnarray*}
+
+\end_inset
+
+ for 
+\begin_inset Formula $\alpha\in(0,1)$
+\end_inset
+
+.
+ Suppose price of x is 
+\begin_inset Formula $1$
+\end_inset
+
+ and price of y is 
+\begin_inset Formula $2$
+\end_inset
+
+, income is 100.
+ Consumer is endowed with 50 units of x and 20 units of y.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Write down the consumer's utility maximization problem.
+ [use 
+\begin_inset Formula $\lambda$
+\end_inset
+
+ as the Lagrangian multiplier]
+\end_layout
+
+\begin_layout Enumerate
+Solve the above maximization problem.
+ How many x and y will the consumer demand? Find the utility level at the
+ optimal level of consumption.
+\end_layout
+
+\begin_layout Enumerate
+Suppose price of y now increases to 
+\begin_inset Formula $4$
+\end_inset
+
+.
+ Repeat part (a) and (b).
+\end_layout
+
+\begin_layout Enumerate
+Compute the change in quantity demanded of y due to substitution effect.
+\end_layout
+
+\begin_layout Enumerate
+Compute the change in quantity demanded of y due to income effect.
+\end_layout
+
+\begin_layout Enumerate
+Compute the change in quantity demanded of y due to endowment effect.
+\end_layout
+
+\end_deeper
+\begin_layout Part
+Expected Utility
+\end_layout
+
+\begin_layout Enumerate
+Suppose a consumer has a utility function for wealth given by 
+\begin_inset Formula $U(w)=\sqrt{w}$
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Graph this utility function for 
+\begin_inset Formula $w\in[0,400]$
+\end_inset
+
+.
+ Be sure to draw a BIG graph.
+ Put wealth, w, on the horizontal axis and utility on the vertical axis.
+ (Note: You will add your answers from later parts of the question to this
+ graph).
+\end_layout
+
+\begin_layout Enumerate
+The consumer is given a lottery ticket that pays $0 with probability p =
+ .5 and $400 with probability (1 - p) = .5.
+ What is the expected value of this lottery ticket? 
+\end_layout
+
+\begin_layout Enumerate
+What is the consumer’s expected utility from the lottery ticket? Compute
+ the value and label on your graph.
+\end_layout
+
+\begin_layout Enumerate
+What amount of wealth would give the consumer the same level of happiness
+ in utils as the lottery ticket described in part (b)? This level of wealth
+ is called the certainty equivalent.
+ Calculate the certainty equivalent, 
+\begin_inset Formula $w_{CE}$
+\end_inset
+
+, and label it on your graph.
+\end_layout
+
+\begin_layout Enumerate
+Determine whether the consumer is risk averse, risk neutral, or risk loving.
+ Explain.
+\end_layout
+
+\end_deeper
+\begin_layout Part
+Insurance
+\end_layout
+
+\begin_layout Enumerate
+A consumer faces two possible states of the world: good and bad.
+ The good state is realized with probability 
+\begin_inset Formula $\pi_{g}$
+\end_inset
+
+, and the bad state is realized with probability 
+\begin_inset Formula $\pi_{b}$
+\end_inset
+
+, where 
+\begin_inset Formula $\pi_{g}+\pi_{b}=1$
+\end_inset
+
+.
+ In the bad state of the world, the consumer suffers a reduction in wealth;
+ wealth in each state is represented by 
+\begin_inset Formula $w_{g}$
+\end_inset
+
+ and 
+\begin_inset Formula $w_{b}$
+\end_inset
+
+, where 
+\begin_inset Formula $w_{g}>w_{b}>0$
+\end_inset
+
+.
+ The consumer's preferences for consumption across the two states is represented
+ by the utility function 
+\begin_inset Formula 
+\begin{eqnarray*}
+U(c_{b},c_{g}) & = & \pi_{g}\ln c_{g}+\pi_{b}\ln c_{b}
+\end{eqnarray*}
+
+\end_inset
+
+ where 
+\begin_inset Formula $c_{g}$
+\end_inset
+
+ and 
+\begin_inset Formula $c_{b}$
+\end_inset
+
+ represent the consumer's choices of consumption in the good and bad states,
+ respectively.
+ Assume that the consumer has access to insurance as follows: the consumer
+ can purchase coverage for wealth losses at a price of 
+\begin_inset Formula $\gamma$
+\end_inset
+
+ dollars per 1 dollar of coverage, where 
+\begin_inset Formula $\gamma\in(0,1)$
+\end_inset
+
+.
+ However, this insurance market is different in that the consumer must also
+ pay a fixed cost of 
+\begin_inset Formula $F$
+\end_inset
+
+ dollars on top of the money spent directly on coverage.
+ That is, if the consumer pays 
+\begin_inset Formula $F$
+\end_inset
+
+ then she can purchase coverage at a price of 
+\begin_inset Formula $\gamma K$
+\end_inset
+
+, where 
+\begin_inset Formula $K$
+\end_inset
+
+ is the amount of insurance coverage purchased.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+If the consumer buys insurance, what is her consumption in the good state?
+ 
+\end_layout
+
+\begin_layout Enumerate
+If the consumer buys insurance, what is her consumption in the bad state?
+ 
+\end_layout
+
+\begin_layout Enumerate
+Assume 
+\begin_inset Formula $\gamma=\pi_{b}$
+\end_inset
+
+.
+ What are the consumer’s optimal choices, 
+\begin_inset Formula $c_{g}^{\star}$
+\end_inset
+
+, 
+\begin_inset Formula $c_{b}^{\star}$
+\end_inset
+
+? How much insurance coverage is purchased (i.e.
+ what is 
+\begin_inset Formula $K^{\star}$
+\end_inset
+
+)? Does the consumer fully insure? 
+\end_layout
+
+\begin_layout Enumerate
+Explain the role of 
+\begin_inset Formula $F$
+\end_inset
+
+.
+ How does it affect the amount of insurance coverage purchased and the optimal
+ consumption levels in each state?
+\end_layout
+
+\end_deeper
+\begin_layout Part
+General Equilibrium
+\end_layout
+
+\begin_layout Enumerate
+Suppose Consumer A has preferences represented by the utility function 
+\begin_inset Formula $U_{A}(x_{A}^{1},x_{A}^{2})=(x_{A}^{1})^{\frac{2}{3}}(x_{A}^{2})^{\frac{1}{3}}$
+\end_inset
+
+ and Consumer B has preferences represented by the utility function 
+\begin_inset Formula $U_{B}(x_{B}^{1},x_{B}^{2})=\frac{1}{2}\ln x_{B}^{1}+\frac{1}{2}\ln x_{B}^{2}$
+\end_inset
+
+.
+ Suppose further that the consumer has following endowments: 
+\begin_inset Formula $w_{A}=(4,2)$
+\end_inset
+
+ and 
+\begin_inset Formula $w_{B}=(2,4)$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Find the competitive equilibrium prices and allocation.
+\end_layout
+
+\begin_layout Enumerate
+What is the relative price of producing 1 unit of y and 1 unit of x for
+ each country?
+\end_layout
+
+\begin_layout Enumerate
+Do markets clear (i.e.
+ supply=demand) when prices are 
+\begin_inset Formula $p_{1}=26$
+\end_inset
+
+ and 
+\begin_inset Formula $p_{2}=2$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Is the allocation you found in part a) Pareto Optimal? Explain.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Part
+Other important concepts to review
+\end_layout
+
+\begin_layout Standard
+Be sure to review Edgeworth Box, with probability 100%, that will be on
+ the final exam.
+ Also, it is fairly likely a problem on intertemporal choice will be on
+ the final.
+ Please also be sure to go back and review important topics from the first
+ half of the course.
+ Review different measures of risk aversion (absolute versus relative).
+ 
+\end_layout
+
+\end_body
+\end_document
