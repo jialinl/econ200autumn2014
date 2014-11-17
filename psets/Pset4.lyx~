@@ -109,6 +109,10 @@ A few of these questions are directly taken (or modified slightly) from
  problem sets from previous school year.
 \end_layout
 
+\begin_layout Standard
+There are a total of 54 points possible.
+\end_layout
+
 \begin_layout Part
 Demand; Slustky Equation
 \end_layout
@@ -121,8 +125,10 @@ s.
 \end_layout
 
 \begin_layout Enumerate
-Suppose that the preferences are concave.
- Is it still the case that the substitution effect is negative? (2 points)
+Suppose the price of good x decreases, holding all else constant, can the
+ substitute effect be negative.
+ Hint: perfect subsitutes.
+ (2 points)
 \end_layout
 
 \begin_layout Enumerate

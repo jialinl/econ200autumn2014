@@ -201,76 +201,58 @@ Consider the following principal-agent problem.
 \end_inset
 
 .
- find the wage contract 
+ The owner simply wants to maximize the firms profit, i.e., maximize 
+\begin_inset Formula $\pi=r-w$
+\end_inset
+
+.
+ 
+\emph on
+For all the required parts of this question, assume that the owner can observe
+ the worker's effort and so the wage contract can specify the wage based
+ on the workers effort level.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Is the worker risk averse? Is the owner risk averse? Can either the owner
+ or the worker bear the risk inherent in this business without making the
+ other worse off (e.g., can the agent insure the principal against the risk
+ of this business or vice versa)? [Make sure to explain]
+\end_layout
+
+\begin_layout Enumerate
+At what wage level is worker indifferent between working and quitting? Make
+ sure to consider both the case of high and low effort.
+\end_layout
+
+\begin_layout Enumerate
+What is the profit maximizing wage contract? Does the worker's wage depend
+ on whether 
+\begin_inset Formula $r=0$
+\end_inset
+
+ or 
+\begin_inset Formula $r=4$
+\end_inset
+
+? What are the firms expected profits under the profit maximizing wage contract?
+ How much effort does the worker exert in the expected profit maximizing
+ contract? [Make sure to explain]
+\end_layout
+
+\begin_layout Enumerate
+(optional) The owner cannot observe the worker's effort and so the contract
+ cannot be conditioned on effort.
+ Find the wage contract 
 \begin_inset Formula $(w_{0},w_{4})$
 \end_inset
 
- that maximizes the firm's expected profits in each of the situations below.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-The owner can observe the worker's effort and so the contract can also be
- conditioned on the effort level of the worker.
- How much effort does the worker exert in the expected profit maximizing
- contract?
-\end_layout
-
-\begin_layout Enumerate
-The owner cannot observe the worker's effort and so the contract cannot
- be conditioned on effort.
+ that maximizes the firm's expected profits.
  How much effort does the worker exert in the expected profit-maximizing
- contract now?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Consider the following utility function
-\begin_inset Formula 
-\begin{eqnarray*}
-U(c) & = & -e^{-\gamma c}
-\end{eqnarray*}
-
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Show that this utility function displays constant absolute risk aversion.
-\end_layout
-
-\begin_layout Enumerate
-Consider a lottery 
-\begin_inset Formula $L=[L_{1},L_{2},1-\pi,\pi]$
-\end_inset
-
-.
- Write down the equation that will allow us to calculate the certainty equivalen
-t.
-\end_layout
-
-\begin_layout Enumerate
-Show that the certainty equivalent in (b) + 
-\begin_inset Formula $T$
-\end_inset
-
- is the certainty equivalent for lottery 
-\begin_inset Formula $L=[L_{1}+T,L_{2}+T,1-\pi,\pi]$
-\end_inset
-
-.
- In other words, show that adding a fixed amount of income, 
-\begin_inset Formula $T$
-\end_inset
-
- dollars, to all prizes increases the certainty equivalent by 
-\begin_inset Formula $T$
-\end_inset
-
- dollars.
- 
+ contract now? [Because this problem is optional, it will not be graded,
+ but it's worth thinking about how this problem changes if the owner can't
+ observe effort, which is typically true in the real world.]
 \end_layout
 
 \end_deeper
@@ -330,11 +312,11 @@ Suppose that insurance is available at an actuarially fair rate.
 
 \begin_layout Enumerate
 If insurance is available at an actuarially fair rate, find 
-\begin_inset Formula $c_{g}$
+\begin_inset Formula $c_{g}^{*}$
 \end_inset
 
  and 
-\begin_inset Formula $c_{b}$
+\begin_inset Formula $c_{b}^{*}$
 \end_inset
 
  as functions of 
@@ -378,7 +360,7 @@ u(c_{2}) & = & \ln c_{2}
 \end_inset
 
 If he dies, he receives the fixed utility level 
-\begin_inset Formula $B$
+\begin_inset Formula $D$
 \end_inset
 
 .
@@ -417,14 +399,10 @@ General Equilibrium of an Endowment Economy
 
 \begin_layout Enumerate
 Consider a two good, two individual endowment economy.
- Suppose that individual 
-\begin_inset Formula $i$
-\end_inset
-
-'s endowment is given by:
+ Suppose that individual 1's endowment is given by:
 \begin_inset Formula 
 \begin{eqnarray*}
-w^{i} & = & (w_{x}^{i},w_{y}^{i})
+w^{1} & = & (w_{x}^{1},w_{y}^{1})
 \end{eqnarray*}
 
 \end_inset
@@ -436,21 +414,21 @@ and individual
 's endowment is given by:
 \begin_inset Formula 
 \begin{eqnarray*}
-w^{j} & = & (w_{x}^{j},w_{y}^{j})
+w^{2} & = & (w_{x}^{2},w_{y}^{2})
 \end{eqnarray*}
 
 \end_inset
 
 where we assume that 
-\begin_inset Formula $w_{x}^{i}>w_{x}^{j}$
+\begin_inset Formula $w_{x}^{1}>w_{x}^{2}$
 \end_inset
 
  and 
-\begin_inset Formula $w_{y}^{j}>w_{y}^{i}$
+\begin_inset Formula $w_{y}^{2}>w_{y}^{1}$
 \end_inset
 
 .
- Also assume individual 1's preferences are given by:
+ Also assume i-ndividual 1's preferences are given by:
 \begin_inset Formula 
 \begin{eqnarray*}
 U(x,y) & = & \alpha\log(x)+(1-\alpha)\log(y)
@@ -540,7 +518,11 @@ What are the equilibrium conditions for this economy?
 \end_layout
 
 \begin_layout Enumerate
-Find the market clearing relative price for the 
+Find the market clearing 
+\emph on
+relative
+\emph default
+ price for the 
 \begin_inset Formula $x$
 \end_inset
 
@@ -552,12 +534,17 @@ Now use the market clearing condition in the
 \begin_inset Formula $y$
 \end_inset
 
- -- market to find the equilibrium price.
- How much of good 
+ -- market to find the equilibrium 
+\emph on
+relative 
+\emph default
+price.
+ What is the relationship between the equilibrium relative price of x and
+ y? How much of good 
 \begin_inset Formula $y$
 \end_inset
 
- does each individual consume?
+ does each individual consume? 
 \end_layout
 
 \begin_layout Enumerate
@@ -574,37 +561,6 @@ Show that each individual's allocation satisfies the budget constraint with
  equality.
  That is, show that the individuals spend their entire income for any arbitrary
  price (Hint: use the demand functions, not the equilibrium quantities).
-\end_layout
-
-\begin_layout Enumerate
-Find the market clearing relative price of the market for 
-\begin_inset Formula $x$
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Enumerate
-Show that at the relative price you found in part k the y--market must clear.
- This is Walras' law.
-\end_layout
-
-\begin_layout Enumerate
-Can you determine each individual's consumption of good y?
-\end_layout
-
-\begin_layout Enumerate
-Find the equilibrium relative price of 
-\begin_inset Formula $x$
-\end_inset
-
- in the endowment economy.
- Find the equilibrium relative price of 
-\begin_inset Formula $y$
-\end_inset
-
- in the endowment economy.
- What is the relationship between them?
 \end_layout
 
 \begin_layout Enumerate
