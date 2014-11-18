@@ -428,7 +428,7 @@ where we assume that
 \end_inset
 
 .
- Also assume i-ndividual 1's preferences are given by:
+ Also assume individual 1's preferences are given by:
 \begin_inset Formula 
 \begin{eqnarray*}
 U(x,y) & = & \alpha\log(x)+(1-\alpha)\log(y)
@@ -557,13 +557,6 @@ Who trades what with whom?
 \end_layout
 
 \begin_layout Enumerate
-Show that each individual's allocation satisfies the budget constraint with
- equality.
- That is, show that the individuals spend their entire income for any arbitrary
- price (Hint: use the demand functions, not the equilibrium quantities).
-\end_layout
-
-\begin_layout Enumerate
 What is the effect of increasing 
 \begin_inset Formula $\alpha$
 \end_inset
@@ -576,16 +569,11 @@ What is the effect of increasing
 \end_layout
 
 \begin_layout Enumerate
-Plot the relative price as a function of 
-\begin_inset Formula $\alpha$
+What happens to the relative price, 
+\begin_inset Formula $\frac{p_{x}}{p_{y}},$
 \end_inset
 
- and 
-\begin_inset Formula $\beta$
-\end_inset
-
-.
- What happens to the relative price as 
+ as 
 \begin_inset Formula $\alpha$
 \end_inset
 
@@ -597,49 +585,34 @@ Plot the relative price as a function of
 \end_layout
 
 \begin_layout Enumerate
-Plot the market clearing price of the market for good 
-\begin_inset Formula $x$
+What happens to the equilibrium relative price, 
+\begin_inset Formula $\frac{p_{x}}{p_{y}},$
 \end_inset
 
- as a function of 
+ as 
 \begin_inset Formula $w_{x}^{i}$
 \end_inset
 
-.
- What happens to the equilibrium price as 
-\begin_inset Formula $w_{x}^{i}$
-\end_inset
-
- increases?
+ increases? What is the economic intuition behind this result?
 \end_layout
 
 \begin_layout Enumerate
-Plot the market clearing price of good 
-\begin_inset Formula $x$
+What happens to the equilibrium relative price, 
+\begin_inset Formula $\frac{p_{x}}{p_{y}},$
 \end_inset
 
- as a function of 
+ as 
 \begin_inset Formula $w_{y}^{i}$
 \end_inset
 
-.
- What happens to the equilibrium price as 
-\begin_inset Formula $w_{y}^{i}$
-\end_inset
-
- increases? What happens to the market clearing price for good 
-\begin_inset Formula $y$
-\end_inset
-
-? Can you explain the economic intuition?
+ increases? Can you explain the economic intuition?
 \end_layout
 
 \begin_layout Enumerate
 Draw the Edgeworth box for the economy.
  What are the dimensions of the box? Label the initial endowment Point E.
  Draw the indifference curves through point E.
- What level of utility does each individual obtain? Mark the set of possible
- trades that individual 1 would object as 
+ Mark the set of possible trades that individual 1 would object as 
 \begin_inset Formula $O_{i}$
 \end_inset
 
