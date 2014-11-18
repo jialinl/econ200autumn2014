@@ -109,6 +109,10 @@ A few of these questions are directly taken (or modified slightly) from
  problem sets from previous school year.
 \end_layout
 
+\begin_layout Standard
+A total of 54 points are possible.
+\end_layout
+
 \begin_layout Part
 Uncertainty and Insurance
 \end_layout
@@ -211,6 +215,9 @@ Consider the following principal-agent problem.
 For all the required parts of this question, assume that the owner can observe
  the worker's effort and so the wage contract can specify the wage based
  on the workers effort level.
+
+\emph default
+ (9 points)
 \end_layout
 
 \begin_deeper
@@ -218,12 +225,13 @@ For all the required parts of this question, assume that the owner can observe
 Is the worker risk averse? Is the owner risk averse? Can either the owner
  or the worker bear the risk inherent in this business without making the
  other worse off (e.g., can the agent insure the principal against the risk
- of this business or vice versa)? [Make sure to explain]
+ of this business or vice versa)? [Make sure to explain] (3 points)
 \end_layout
 
 \begin_layout Enumerate
 At what wage level is worker indifferent between working and quitting? Make
  sure to consider both the case of high and low effort.
+ (2 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -238,7 +246,7 @@ What is the profit maximizing wage contract? Does the worker's wage depend
 
 ? What are the firms expected profits under the profit maximizing wage contract?
  How much effort does the worker exert in the expected profit maximizing
- contract? [Make sure to explain]
+ contract? [Make sure to explain] (4 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -273,7 +281,8 @@ Suppose that Andrew faces an uncertain loss of income.
 \end_inset
 
 .
- Preferences over consumption in the two states are given by:
+ Preferences over consumption in the two states are given by: (9 points)
+ 
 \begin_inset Formula 
 \begin{eqnarray*}
 U(c_{b},c_{g}) & = & \pi_{b}\log(c_{b})+\pi_{g}a\log(c_{g})
@@ -290,7 +299,7 @@ What is Andrew's consumption in the good state if he purchases
 \begin_inset Formula $k$
 \end_inset
 
- units of insurance?
+ units of insurance? (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -298,7 +307,7 @@ What is Andrew's consumption in the bad state if he purchases
 \begin_inset Formula $k$
 \end_inset
 
- units of insurance?
+ units of insurance? (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -307,7 +316,7 @@ Suppose that insurance is available at an actuarially fair rate.
 \begin_inset Formula $\gamma$
 \end_inset
 
-?
+? (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -324,6 +333,7 @@ If insurance is available at an actuarially fair rate, find
 \end_inset
 
 .
+ (3 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -331,7 +341,7 @@ For what values of
 \begin_inset Formula $a$
 \end_inset
 
- does Andrew buy complete insurance coverage?
+ does Andrew buy complete insurance coverage? (3 points)
 \end_layout
 
 \end_deeper
@@ -374,22 +384,23 @@ If he dies, he receives the fixed utility level
 \begin_inset Formula $(w_{1},w_{2})$
 \end_inset
 
-.
+ and is not affected by his probability of death.
+ (6 points)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 Set up the individual's utility maximization problem.
  Make sure that you explain how the probability of death affects the problem.
- 
+ (2 points)
 \end_layout
 
 \begin_layout Enumerate
-How much does the individual save or borrow?
+How much does the individual save or borrow? (2 points)
 \end_layout
 
 \begin_layout Enumerate
-How do his savings or loans depend on the probability of death?
+How do his savings or loans depend on the probability of death? (2 points)
 \end_layout
 
 \end_deeper
@@ -461,15 +472,18 @@ Finally, let the absolute prices of good
 \end_inset
 
 .
+ (30 points)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 Define the competitive equilibrium of the endowment economy.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
 Write down each individual's maximization problem.
+ (2 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -499,6 +513,7 @@ Solve each individual's maximization problem.
 \end_inset
 
 's budget constraint.
+ (4 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -511,10 +526,11 @@ and
 \end_inset
 
 , the aggregate demands for the two goods.
+ (3 points)
 \end_layout
 
 \begin_layout Enumerate
-What are the equilibrium conditions for this economy?
+What are the equilibrium conditions for this economy? (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -527,6 +543,7 @@ relative
 \end_inset
 
  -- market.
+ (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -540,20 +557,23 @@ relative
 \emph default
 price.
  What is the relationship between the equilibrium relative price of x and
- y? How much of good 
+ y? (2 points)
+\end_layout
+
+\begin_layout Enumerate
+How much of good 
 \begin_inset Formula $y$
 \end_inset
 
- does each individual consume? 
+ does each individual consume? (2 points)
 \end_layout
 
 \begin_layout Enumerate
-Graph the solution.
- Label your graphs clearly.
-\end_layout
+Who trades what with whom if 
+\begin_inset Formula $\alpha=\gamma$
+\end_inset
 
-\begin_layout Enumerate
-Who trades what with whom?
+? (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -565,7 +585,7 @@ What is the effect of increasing
 \begin_inset Formula $\gamma$
 \end_inset
 
- on the MRS of individual 2?
+ on the MRS of individual 2? (1 point)
 \end_layout
 
 \begin_layout Enumerate
@@ -581,7 +601,7 @@ What happens to the relative price,
 \begin_inset Formula $\gamma$
 \end_inset
 
- increases? What is the economic intuition behind this result?
+ increases? What is the economic intuition behind this result? (2 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -593,7 +613,7 @@ What happens to the equilibrium relative price,
 \begin_inset Formula $w_{x}^{i}$
 \end_inset
 
- increases? What is the economic intuition behind this result?
+ increases? What is the economic intuition behind this result? (2 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -605,7 +625,7 @@ What happens to the equilibrium relative price,
 \begin_inset Formula $w_{y}^{i}$
 \end_inset
 
- increases? Can you explain the economic intuition?
+ increases? Can you explain the economic intuition? (2 points)
 \end_layout
 
 \begin_layout Enumerate
@@ -633,6 +653,7 @@ Draw the Edgeworth box for the economy.
 \end_inset
 
 .
+ (6 points)
 \end_layout
 
 \end_deeper
